@@ -1,0 +1,1501 @@
+Case_ID,Age,Sex,Triage_Priority,Department,Shift,Assigned_Doctor_ID,Arrival_Timestamp,Discharge_Status
+CF00001,50,Not recorded,Medium,General Emergency,Evening,DR006,20:22:00,Discharged
+CF00002,25,Male,High,General Emergency,Evening,DR013,19:18:00,Discharged
+CF00003,19,Male,Low,Respiratory,Evening,DR016,20:20:00,Discharged
+CF00004,37,Female,Medium,General Emergency,Night,DR009,22:33:00,Discharged
+CF00005,36,Female,Medium,Orthopedics,Morning,DR011,13:00:00,Discharged
+CF00006,43,Not recorded,Medium,Cardiology,Morning,DR019,9:47:00,Discharged
+CF00007,48,Not recorded,Medium,Cardiology,Night,DR015,22:45:00,Discharged
+CF00008,18,Not recorded,Low,Cardiology,Evening,DR009,14:26:00,Discharged
+CF00009,29,Male,High,General Emergency,Evening,DR003,19:07:00,Discharged
+CF00010,50,Male,Medium,Orthopedics,Night,DR007,23:35:00,Discharged
+CF00011,44,Female,Low,Orthopedics,Evening,DR016,20:55:00,Discharged
+CF00012,80,Male,Low,Cardiology,Morning,DR010,13:12:00,Admitted
+CF00013,58,Female,High,Cardiology,Evening,DR016,14:43:00,Discharged
+CF00014,65,Female,Low,General Emergency,Morning,DR005,8:40:00,Discharged
+CF00015,41,Not recorded,Low,Orthopedics,Evening,DR001,21:38:00,Discharged
+CF00016,62,Female,Medium,Respiratory,Morning,DR009,6:59:00,Transferred
+CF00017,32,Not recorded,Low,General Emergency,Night,DR011,5:56:00,Discharged
+CF00018,48,Female,Low,Cardiology,Morning,DR012,11:28:00,Discharged
+CF00019,66,Not recorded,Low,Orthopedics,Morning,DR015,12:23:00,Discharged
+CF00020,89,Female,Medium,Orthopedics,Morning,DR018,11:10:00,Discharged
+CF00021,35,Not recorded,Low,Respiratory,Evening,DR004,20:44:00,Admitted
+CF00022,63,Not recorded,Low,Respiratory,Evening,DR020,18:43:00,Discharged
+CF00023,18,Not recorded,Medium,Orthopedics,Evening,DR009,19:53:00,Discharged
+CF00024,70,Female,High,General Emergency,Morning,DR008,12:55:00,Discharged
+CF00025,46,Not recorded,Low,General Emergency,Evening,DR012,21:06:00,Admitted
+CF00026,29,Not recorded,Medium,Respiratory,Morning,DR009,12:08:00,Discharged
+CF00027,20,Female,Low,General Emergency,Morning,DR017,9:15:00,Admitted
+CF00028,38,Male,High,Respiratory,Night,DR008,4:44:00,Admitted
+CF00029,54,Male,Low,General Emergency,Evening,DR020,20:48:00,Discharged
+CF00030,36,Not recorded,Low,Orthopedics,Morning,DR006,8:59:00,Discharged
+CF00031,19,Not recorded,Medium,Cardiology,Morning,DR018,10:45:00,Discharged
+CF00032,47,Not recorded,Medium,Cardiology,Night,DR011,22:07:00,Discharged
+CF00033,57,Not recorded,Low,Orthopedics,Night,DR020,5:59:00,Discharged
+CF00034,76,Male,Medium,General Emergency,Morning,DR002,6:18:00,Discharged
+CF00035,84,Female,High,Cardiology,Morning,DR018,6:17:00,Discharged
+CF00036,69,Male,High,Respiratory,Evening,DR008,19:01:00,Discharged
+CF00037,18,Male,Medium,General Emergency,Night,DR009,3:17:00,Discharged
+CF00038,63,Female,High,Respiratory,Evening,DR017,14:25:00,Discharged
+CF00039,57,Female,Medium,Orthopedics,Evening,DR012,16:01:00,Admitted
+CF00040,70,Male,Low,Orthopedics,Morning,DR008,13:20:00,Discharged
+CF00041,60,Not recorded,Medium,Respiratory,Evening,DR011,19:11:00,Discharged
+CF00042,58,Female,Low,Cardiology,Morning,DR013,11:19:00,Discharged
+CF00043,25,Female,Medium,Orthopedics,Morning,DR007,13:15:00,Discharged
+CF00044,46,Male,High,Orthopedics,Evening,DR013,19:16:00,Admitted
+CF00045,89,Male,High,Cardiology,Morning,DR006,10:41:00,Discharged
+CF00046,39,Female,Low,Cardiology,Morning,DR006,13:42:00,Discharged
+CF00047,69,Male,Medium,Orthopedics,Night,DR015,5:24:00,Admitted
+CF00048,22,Male,High,Orthopedics,Evening,DR010,19:25:00,Transferred
+CF00049,74,Male,Medium,Respiratory,Night,DR006,23:59:00,Discharged
+CF00050,51,Not recorded,High,Cardiology,Night,DR010,3:31:00,Discharged
+CF00051,69,Male,Medium,General Emergency,Evening,DR006,14:39:00,Discharged
+CF00052,39,Not recorded,Low,Respiratory,Morning,DR009,7:48:00,Discharged
+CF00053,21,Not recorded,High,General Emergency,Morning,DR020,11:31:00,Transferred
+CF00054,27,Male,Medium,General Emergency,Evening,DR013,18:35:00,Discharged
+CF00055,29,Female,Low,Respiratory,Morning,DR006,8:26:00,Discharged
+CF00056,74,Female,Medium,General Emergency,Morning,DR020,9:31:00,Discharged
+CF00057,20,Female,Medium,Cardiology,Night,DR020,2:39:00,Discharged
+CF00058,19,Not recorded,High,Respiratory,Evening,DR011,16:16:00,Discharged
+CF00059,41,Female,Medium,Orthopedics,Night,DR011,5:28:00,Discharged
+CF00060,61,Female,High,Orthopedics,Morning,DR011,9:29:00,Discharged
+CF00061,78,Male,High,General Emergency,Morning,DR014,11:15:00,Admitted
+CF00062,81,Male,Medium,Cardiology,Morning,DR007,10:12:00,Discharged
+CF00063,41,Male,Medium,General Emergency,Morning,DR001,6:00:00,Discharged
+CF00064,64,Male,Medium,Orthopedics,Night,DR009,3:25:00,Discharged
+CF00065,59,Female,Medium,Orthopedics,Night,DR015,4:33:00,Discharged
+CF00066,66,Female,High,Respiratory,Evening,DR016,17:01:00,Discharged
+CF00067,33,Not recorded,Medium,Respiratory,Night,DR014,3:53:00,Discharged
+CF00068,87,Not recorded,Medium,Orthopedics,Evening,DR009,21:58:00,Admitted
+CF00069,25,Female,Low,General Emergency,Morning,DR009,8:30:00,Admitted
+CF00070,18,Not recorded,Medium,Respiratory,Morning,DR019,10:58:00,Discharged
+CF00071,89,Female,Low,General Emergency,Evening,DR007,21:11:00,Discharged
+CF00072,51,Not recorded,High,Cardiology,Evening,DR011,21:13:00,Discharged
+CF00073,56,Female,Medium,Cardiology,Night,DR011,3:50:00,Discharged
+CF00074,57,Not recorded,Medium,General Emergency,Evening,DR017,19:41:00,Discharged
+CF00075,55,Male,High,Orthopedics,Evening,DR010,16:01:00,Discharged
+CF00076,47,Not recorded,Medium,General Emergency,Morning,DR008,6:39:00,Admitted
+CF00077,28,Male,Medium,Respiratory,Evening,DR011,20:18:00,Discharged
+CF00078,30,Male,High,Orthopedics,Evening,DR018,20:59:00,Discharged
+CF00079,56,Female,Medium,Cardiology,Evening,DR014,19:31:00,Admitted
+CF00080,27,Female,High,Cardiology,Evening,DR005,15:50:00,Discharged
+CF00081,30,Male,Low,Respiratory,Evening,DR003,21:47:00,Discharged
+CF00082,31,Not recorded,High,Orthopedics,Morning,DR016,7:33:00,Discharged
+CF00083,43,Female,Medium,General Emergency,Morning,DR016,11:20:00,Discharged
+CF00084,71,Male,Medium,Respiratory,Evening,DR012,18:37:00,Admitted
+CF00085,90,Female,Low,Cardiology,Morning,DR012,8:24:00,Discharged
+CF00086,44,Not recorded,High,Respiratory,Night,DR009,5:30:00,Discharged
+CF00087,59,Not recorded,High,Cardiology,Evening,DR010,17:33:00,Discharged
+CF00088,54,Female,High,Cardiology,Evening,DR014,19:37:00,Discharged
+CF00089,66,Male,Low,Orthopedics,Morning,DR008,10:20:00,Discharged
+CF00090,34,Not recorded,Medium,Respiratory,Evening,DR017,17:24:00,Discharged
+CF00091,83,Female,Medium,Cardiology,Night,DR006,22:48:00,Admitted
+CF00092,64,Not recorded,Low,Cardiology,Evening,DR006,16:10:00,Discharged
+CF00093,51,Not recorded,Low,Respiratory,Night,DR015,23:16:00,Discharged
+CF00094,68,Male,Medium,General Emergency,Evening,DR019,15:18:00,Discharged
+CF00095,52,Female,Low,Respiratory,Morning,DR006,11:55:00,Discharged
+CF00096,40,Female,Medium,General Emergency,Evening,DR015,18:01:00,Discharged
+CF00097,65,Male,Medium,Cardiology,Morning,DR014,12:33:00,Discharged
+CF00098,23,Female,Low,Respiratory,Morning,DR009,9:49:00,Discharged
+CF00099,30,Male,High,Respiratory,Evening,DR004,21:49:00,Discharged
+CF00100,40,Female,High,General Emergency,Night,DR012,2:56:00,Discharged
+CF00101,38,Female,Medium,Respiratory,Morning,DR009,11:48:00,Discharged
+CF00102,54,Female,Medium,Respiratory,Night,DR002,3:45:00,Discharged
+CF00103,67,Male,Medium,Orthopedics,Night,DR002,5:10:00,Discharged
+CF00104,30,Not recorded,Medium,Respiratory,Morning,DR013,6:44:00,Discharged
+CF00105,44,Female,Medium,Respiratory,Morning,DR020,12:47:00,Discharged
+CF00106,20,Not recorded,Medium,Cardiology,Night,DR005,2:51:00,Admitted
+CF00107,42,Male,Medium,Orthopedics,Night,DR013,23:04:00,Admitted
+CF00108,61,Not recorded,Medium,Respiratory,Evening,DR011,17:21:00,Discharged
+CF00109,84,Not recorded,Low,Respiratory,Evening,DR010,14:13:00,Discharged
+CF00110,69,Not recorded,High,General Emergency,Evening,DR016,20:28:00,Discharged
+CF00111,78,Not recorded,Low,Orthopedics,Night,DR008,2:37:00,Discharged
+CF00112,30,Female,Medium,Orthopedics,Night,DR007,1:47:00,Discharged
+CF00113,57,Male,Medium,Respiratory,Morning,DR003,6:05:00,Transferred
+CF00114,39,Male,Medium,General Emergency,Night,DR017,23:19:00,Discharged
+CF00115,78,Not recorded,Low,Cardiology,Evening,DR018,17:19:00,Discharged
+CF00116,26,Male,High,Cardiology,Morning,DR012,6:05:00,Discharged
+CF00117,35,Not recorded,Medium,Orthopedics,Morning,DR012,6:39:00,Discharged
+CF00118,70,Male,High,Respiratory,Night,DR001,23:40:00,Discharged
+CF00119,37,Male,Medium,Cardiology,Morning,DR016,13:18:00,Discharged
+CF00120,75,Male,Medium,General Emergency,Night,DR012,2:18:00,Discharged
+CF00121,28,Male,Low,Orthopedics,Evening,DR001,20:58:00,Discharged
+CF00122,71,Not recorded,Low,Cardiology,Evening,DR012,16:50:00,Discharged
+CF00123,74,Female,High,General Emergency,Evening,DR007,19:01:00,Discharged
+CF00124,26,Male,Medium,Orthopedics,Night,DR012,23:41:00,Discharged
+CF00125,64,Not recorded,Medium,Respiratory,Night,DR018,5:32:00,Discharged
+CF00126,87,Not recorded,Medium,Cardiology,Morning,DR006,10:57:00,Discharged
+CF00127,52,Not recorded,Medium,General Emergency,Morning,DR008,10:31:00,Discharged
+CF00128,24,Male,High,Orthopedics,Night,DR009,3:03:00,Discharged
+CF00129,55,Male,Medium,General Emergency,Evening,DR010,15:14:00,Discharged
+CF00130,22,Female,High,Cardiology,Morning,DR012,8:02:00,Discharged
+CF00131,51,Not recorded,Medium,General Emergency,Morning,DR013,7:22:00,Discharged
+CF00132,67,Male,Medium,Orthopedics,Morning,DR017,8:07:00,Transferred
+CF00133,89,Not recorded,Medium,Cardiology,Morning,DR015,7:04:00,Discharged
+CF00134,72,Female,Low,Orthopedics,Night,DR009,1:46:00,Discharged
+CF00135,43,Female,Medium,Respiratory,Night,DR008,22:49:00,Discharged
+CF00136,22,Not recorded,Medium,Orthopedics,Night,DR005,4:18:00,Discharged
+CF00137,87,Male,High,General Emergency,Morning,DR018,12:54:00,Discharged
+CF00138,89,Not recorded,Low,Orthopedics,Morning,DR005,7:00:00,Discharged
+CF00139,20,Female,High,Respiratory,Morning,DR003,9:54:00,Discharged
+CF00140,45,Not recorded,Low,Respiratory,Evening,DR011,18:57:00,Admitted
+CF00141,81,Female,Medium,Orthopedics,Morning,DR011,8:36:00,Discharged
+CF00142,78,Male,Medium,Cardiology,Evening,DR014,15:10:00,Admitted
+CF00143,58,Female,Low,Cardiology,Morning,DR002,9:39:00,Discharged
+CF00144,58,Not recorded,High,Respiratory,Morning,DR006,7:03:00,Discharged
+CF00145,28,Female,High,Respiratory,Morning,DR012,12:13:00,Discharged
+CF00146,61,Female,Low,Orthopedics,Morning,DR015,13:04:00,Discharged
+CF00147,64,Not recorded,Medium,General Emergency,Evening,DR002,17:03:00,Discharged
+CF00148,54,Female,Medium,Cardiology,Evening,DR006,14:46:00,Discharged
+CF00149,88,Not recorded,Medium,Respiratory,Morning,DR002,10:55:00,Admitted
+CF00150,41,Male,Medium,General Emergency,Morning,DR005,8:04:00,Discharged
+CF00151,18,Female,Medium,General Emergency,Morning,DR018,10:25:00,Discharged
+CF00152,59,Male,Low,Orthopedics,Evening,DR001,18:47:00,Discharged
+CF00153,24,Female,Medium,Cardiology,Morning,DR013,7:31:00,Discharged
+CF00154,18,Male,Medium,Respiratory,Evening,DR017,21:17:00,Discharged
+CF00155,36,Female,Medium,Respiratory,Night,DR017,2:50:00,Discharged
+CF00156,62,Female,Low,General Emergency,Evening,DR020,15:19:00,Discharged
+CF00157,28,Female,Low,Orthopedics,Evening,DR009,16:21:00,Discharged
+CF00158,87,Female,High,Orthopedics,Evening,DR006,21:59:00,Discharged
+CF00159,39,Female,Medium,Orthopedics,Night,DR019,2:49:00,Discharged
+CF00160,29,Not recorded,Low,Respiratory,Evening,DR014,15:53:00,Discharged
+CF00161,86,Female,Medium,General Emergency,Morning,DR013,12:05:00,Discharged
+CF00162,41,Not recorded,Low,General Emergency,Evening,DR009,15:09:00,Discharged
+CF00163,54,Female,Medium,Orthopedics,Morning,DR010,10:58:00,Discharged
+CF00164,70,Male,High,Cardiology,Evening,DR018,21:52:00,Discharged
+CF00165,48,Female,Medium,General Emergency,Morning,DR012,8:38:00,Discharged
+CF00166,34,Not recorded,Medium,Respiratory,Evening,DR008,17:13:00,Discharged
+CF00167,75,Not recorded,Medium,General Emergency,Night,DR007,2:41:00,Discharged
+CF00168,64,Female,Medium,Cardiology,Morning,DR005,8:12:00,Discharged
+CF00169,43,Male,High,Respiratory,Night,DR016,1:27:00,Discharged
+CF00170,78,Not recorded,Medium,Orthopedics,Evening,DR015,18:57:00,Discharged
+CF00171,41,Female,Low,Respiratory,Evening,DR016,15:31:00,Admitted
+CF00172,52,Male,Medium,Respiratory,Morning,DR006,12:42:00,Discharged
+CF00173,75,Male,Medium,Respiratory,Night,DR005,23:23:00,Discharged
+CF00174,59,Male,Medium,General Emergency,Night,DR016,0:26:00,Discharged
+CF00175,57,Male,High,General Emergency,Morning,DR017,11:26:00,Admitted
+CF00176,40,Not recorded,Medium,Cardiology,Evening,DR006,18:36:00,Discharged
+CF00177,42,Female,High,Orthopedics,Evening,DR005,18:51:00,Transferred
+CF00178,85,Not recorded,High,Respiratory,Morning,DR007,12:37:00,Discharged
+CF00179,67,Female,Medium,Respiratory,Morning,DR008,9:48:00,Discharged
+CF00180,28,Male,High,Orthopedics,Evening,DR017,21:43:00,Discharged
+CF00181,63,Not recorded,High,Cardiology,Evening,DR012,21:43:00,Discharged
+CF00182,28,Male,High,Orthopedics,Evening,DR003,16:28:00,Discharged
+CF00183,64,Female,Medium,General Emergency,Evening,DR013,18:42:00,Discharged
+CF00184,41,Female,Medium,General Emergency,Morning,DR016,6:15:00,Discharged
+CF00185,21,Not recorded,High,Cardiology,Evening,DR017,21:46:00,Admitted
+CF00186,69,Female,Medium,Respiratory,Morning,DR016,13:21:00,Admitted
+CF00187,74,Female,Low,Orthopedics,Evening,DR018,21:28:00,Admitted
+CF00188,55,Male,Medium,Cardiology,Evening,DR014,21:30:00,Discharged
+CF00189,34,Female,High,Respiratory,Evening,DR009,20:19:00,Transferred
+CF00190,24,Male,Medium,Cardiology,Evening,DR012,21:41:00,Discharged
+CF00191,58,Male,Medium,Orthopedics,Evening,DR015,21:07:00,Discharged
+CF00192,33,Not recorded,Medium,General Emergency,Night,DR020,23:37:00,Discharged
+CF00193,86,Male,High,Cardiology,Morning,DR016,12:07:00,Discharged
+CF00194,67,Male,Medium,Respiratory,Evening,DR001,20:27:00,Discharged
+CF00195,70,Female,High,Cardiology,Evening,DR002,16:37:00,Discharged
+CF00196,55,Not recorded,Medium,Respiratory,Morning,DR015,8:52:00,Discharged
+CF00197,51,Male,Low,Respiratory,Morning,DR001,10:45:00,Discharged
+CF00198,82,Male,Medium,Cardiology,Morning,DR012,9:00:00,Admitted
+CF00199,54,Male,Medium,Respiratory,Morning,DR011,7:29:00,Discharged
+CF00200,80,Not recorded,Medium,Respiratory,Morning,DR006,10:27:00,Discharged
+CF00201,19,Not recorded,Low,General Emergency,Morning,DR010,12:01:00,Discharged
+CF00202,25,Not recorded,Low,Orthopedics,Morning,DR008,13:50:00,Discharged
+CF00203,42,Not recorded,Medium,Orthopedics,Evening,DR014,16:48:00,Discharged
+CF00204,19,Not recorded,Medium,Cardiology,Evening,DR014,15:53:00,Discharged
+CF00205,36,Male,Medium,Orthopedics,Morning,DR011,12:36:00,Discharged
+CF00206,24,Female,Medium,Cardiology,Evening,DR002,18:35:00,Admitted
+CF00207,24,Male,Low,Respiratory,Night,DR005,2:47:00,Discharged
+CF00208,85,Male,Low,Cardiology,Evening,DR008,20:29:00,Discharged
+CF00209,72,Not recorded,Medium,Respiratory,Night,DR016,0:34:00,Discharged
+CF00210,72,Male,Low,Respiratory,Morning,DR006,13:32:00,Discharged
+CF00211,61,Female,Medium,Orthopedics,Morning,DR012,9:59:00,Discharged
+CF00212,73,Not recorded,Medium,Orthopedics,Night,DR012,22:03:00,Discharged
+CF00213,39,Male,Low,Cardiology,Morning,DR008,7:34:00,Discharged
+CF00214,79,Female,Medium,Cardiology,Evening,DR006,14:33:00,Discharged
+CF00215,70,Female,Medium,Respiratory,Evening,DR012,18:51:00,Discharged
+CF00216,78,Female,Medium,Cardiology,Evening,DR002,19:26:00,Discharged
+CF00217,47,Male,Medium,Cardiology,Evening,DR016,15:03:00,Discharged
+CF00218,70,Not recorded,High,Respiratory,Morning,DR004,10:44:00,Admitted
+CF00219,77,Female,Low,Orthopedics,Morning,DR017,8:33:00,Discharged
+CF00220,29,Male,Medium,Orthopedics,Morning,DR005,12:00:00,Discharged
+CF00221,73,Not recorded,High,Respiratory,Morning,DR011,7:26:00,Discharged
+CF00222,84,Female,Medium,Orthopedics,Morning,DR009,10:50:00,Discharged
+CF00223,20,Not recorded,Medium,Respiratory,Morning,DR015,11:43:00,Discharged
+CF00224,29,Male,Low,Respiratory,Evening,DR005,16:39:00,Discharged
+CF00225,77,Female,High,General Emergency,Morning,DR018,6:23:00,Discharged
+CF00226,21,Female,Medium,Orthopedics,Morning,DR007,12:47:00,Discharged
+CF00227,78,Female,Low,Cardiology,Night,DR010,4:45:00,Discharged
+CF00228,77,Female,Medium,Orthopedics,Morning,DR016,10:34:00,Discharged
+CF00229,68,Not recorded,Medium,General Emergency,Morning,DR013,12:49:00,Discharged
+CF00230,76,Not recorded,Low,Cardiology,Morning,DR012,10:49:00,Discharged
+CF00231,45,Female,Medium,Cardiology,Morning,DR010,6:44:00,Discharged
+CF00232,71,Female,Low,Orthopedics,Night,DR015,23:54:00,Discharged
+CF00233,85,Female,Medium,General Emergency,Evening,DR008,17:40:00,Discharged
+CF00234,67,Not recorded,High,Cardiology,Evening,DR010,18:36:00,Admitted
+CF00235,32,Male,Medium,Orthopedics,Morning,DR010,8:32:00,Discharged
+CF00236,68,Female,Low,Respiratory,Night,DR008,22:09:00,Discharged
+CF00237,87,Not recorded,Medium,General Emergency,Night,DR017,1:22:00,Discharged
+CF00238,83,Female,High,General Emergency,Morning,DR013,12:23:00,Discharged
+CF00239,74,Not recorded,Medium,General Emergency,Morning,DR019,11:50:00,Discharged
+CF00240,20,Male,High,Respiratory,Morning,DR020,12:17:00,Discharged
+CF00241,44,Male,Low,Cardiology,Morning,DR019,10:10:00,Discharged
+CF00242,54,Male,Medium,Respiratory,Evening,DR004,20:46:00,Discharged
+CF00243,88,Female,Low,Orthopedics,Night,DR009,1:44:00,Discharged
+CF00244,71,Not recorded,Low,Orthopedics,Morning,DR001,6:43:00,Discharged
+CF00245,36,Not recorded,Medium,Respiratory,Morning,DR015,13:52:00,Discharged
+CF00246,21,Male,Medium,General Emergency,Night,DR013,2:13:00,Discharged
+CF00247,43,Male,High,Orthopedics,Evening,DR010,16:24:00,Discharged
+CF00248,27,Male,High,Cardiology,Morning,DR005,8:08:00,Discharged
+CF00249,71,Male,High,Respiratory,Morning,DR015,13:08:00,Discharged
+CF00250,52,Male,Low,Orthopedics,Morning,DR019,6:18:00,Discharged
+CF00251,60,Female,Medium,Cardiology,Evening,DR003,21:33:00,Discharged
+CF00252,30,Male,Medium,Respiratory,Night,DR016,1:43:00,Discharged
+CF00253,78,Female,Low,Orthopedics,Evening,DR018,15:43:00,Discharged
+CF00254,63,Female,High,General Emergency,Evening,DR012,19:14:00,Discharged
+CF00255,30,Male,High,General Emergency,Evening,DR013,21:16:00,Discharged
+CF00256,26,Female,Medium,Orthopedics,Morning,DR006,8:46:00,Discharged
+CF00257,83,Female,Low,Respiratory,Morning,DR016,11:11:00,Discharged
+CF00258,25,Not recorded,Medium,Orthopedics,Evening,DR007,16:15:00,Transferred
+CF00259,20,Not recorded,Low,General Emergency,Night,DR007,5:23:00,Discharged
+CF00260,18,Male,Low,Respiratory,Morning,DR017,6:22:00,Discharged
+CF00261,40,Female,Medium,Cardiology,Evening,DR013,16:11:00,Admitted
+CF00262,75,Male,Medium,Cardiology,Night,DR011,1:20:00,Admitted
+CF00263,64,Male,Medium,Cardiology,Morning,DR018,8:18:00,Discharged
+CF00264,80,Not recorded,Medium,Orthopedics,Evening,DR003,21:44:00,Discharged
+CF00265,59,Female,Medium,Respiratory,Morning,DR008,12:37:00,Discharged
+CF00266,80,Male,High,Respiratory,Evening,DR020,20:35:00,Discharged
+CF00267,28,Not recorded,Medium,Orthopedics,Morning,DR002,7:39:00,Discharged
+CF00268,78,Female,Low,Cardiology,Morning,DR008,9:07:00,Discharged
+CF00269,60,Female,High,Cardiology,Night,DR017,0:29:00,Discharged
+CF00270,33,Not recorded,Medium,Orthopedics,Morning,DR015,10:40:00,Admitted
+CF00271,68,Male,Low,General Emergency,Morning,DR003,12:59:00,Discharged
+CF00272,47,Male,Low,Cardiology,Morning,DR011,13:18:00,Discharged
+CF00273,53,Female,Low,Respiratory,Morning,DR001,6:37:00,Discharged
+CF00274,30,Male,Low,Orthopedics,Evening,DR013,17:26:00,Admitted
+CF00275,20,Male,Medium,General Emergency,Evening,DR010,14:23:00,Admitted
+CF00276,34,Male,Medium,General Emergency,Evening,DR019,15:05:00,Discharged
+CF00277,69,Female,Medium,Orthopedics,Morning,DR003,8:18:00,Discharged
+CF00278,20,Not recorded,Medium,General Emergency,Morning,DR001,6:31:00,Discharged
+CF00279,73,Not recorded,High,Orthopedics,Morning,DR018,8:55:00,Discharged
+CF00280,30,Female,Low,Cardiology,Night,DR003,0:49:00,Discharged
+CF00281,52,Male,Medium,Respiratory,Morning,DR012,9:06:00,Discharged
+CF00282,25,Male,Low,Orthopedics,Evening,DR015,18:10:00,Discharged
+CF00283,34,Not recorded,High,Orthopedics,Morning,DR018,8:06:00,Admitted
+CF00284,71,Not recorded,Medium,Orthopedics,Evening,DR004,17:00:00,Discharged
+CF00285,28,Female,Medium,Respiratory,Morning,DR003,7:55:00,Discharged
+CF00286,44,Not recorded,Medium,Cardiology,Night,DR004,1:39:00,Admitted
+CF00287,42,Not recorded,High,General Emergency,Evening,DR008,15:15:00,Discharged
+CF00288,35,Not recorded,High,Respiratory,Evening,DR013,17:14:00,Discharged
+CF00289,60,Not recorded,Medium,Cardiology,Night,DR003,1:44:00,Admitted
+CF00290,80,Male,High,Orthopedics,Morning,DR002,6:30:00,Discharged
+CF00291,41,Male,Medium,Respiratory,Night,DR009,23:38:00,Admitted
+CF00292,56,Not recorded,Medium,Respiratory,Evening,DR019,15:41:00,Discharged
+CF00293,61,Male,Low,General Emergency,Morning,DR018,7:37:00,Discharged
+CF00294,80,Female,Low,Cardiology,Morning,DR013,6:42:00,Discharged
+CF00295,72,Not recorded,Medium,General Emergency,Evening,DR003,20:16:00,Discharged
+CF00296,42,Male,Medium,Cardiology,Morning,DR012,7:59:00,Discharged
+CF00297,86,Not recorded,Medium,Cardiology,Evening,DR011,15:00:00,Discharged
+CF00298,46,Male,High,Orthopedics,Morning,DR011,7:23:00,Discharged
+CF00299,88,Female,High,General Emergency,Morning,DR006,7:36:00,Discharged
+CF00300,49,Not recorded,Medium,Cardiology,Night,DR013,22:06:00,Discharged
+CF00301,63,Not recorded,Medium,Respiratory,Night,DR008,4:46:00,Discharged
+CF00302,39,Male,Low,Cardiology,Night,DR008,23:42:00,Discharged
+CF00303,90,Female,Low,Cardiology,Morning,DR018,6:48:00,Discharged
+CF00304,73,Female,Low,Respiratory,Evening,DR012,14:54:00,Discharged
+CF00305,55,Female,Medium,Respiratory,Morning,DR003,9:10:00,Transferred
+CF00306,39,Female,Medium,Respiratory,Night,DR011,3:34:00,Discharged
+CF00307,56,Not recorded,Medium,Cardiology,Night,DR002,5:58:00,Discharged
+CF00308,53,Not recorded,Medium,Orthopedics,Night,DR001,5:24:00,Discharged
+CF00309,86,Male,Medium,General Emergency,Morning,DR014,12:49:00,Discharged
+CF00310,59,Male,Low,General Emergency,Morning,DR001,8:35:00,Discharged
+CF00311,56,Not recorded,Medium,Cardiology,Morning,DR020,11:58:00,Discharged
+CF00312,59,Male,Medium,General Emergency,Night,DR006,5:26:00,Discharged
+CF00313,20,Female,Low,Respiratory,Night,DR016,3:32:00,Discharged
+CF00314,25,Female,Low,Respiratory,Evening,DR015,20:06:00,Discharged
+CF00315,37,Male,Low,Orthopedics,Evening,DR008,20:57:00,Discharged
+CF00316,26,Female,Low,Orthopedics,Night,DR010,0:16:00,Discharged
+CF00317,79,Female,High,Orthopedics,Evening,DR002,14:39:00,Discharged
+CF00318,28,Not recorded,Medium,Orthopedics,Morning,DR010,10:12:00,Discharged
+CF00319,72,Male,Low,Orthopedics,Morning,DR004,7:23:00,Discharged
+CF00320,46,Male,Medium,Respiratory,Night,DR014,23:31:00,Discharged
+CF00321,33,Male,Medium,Respiratory,Night,DR008,3:22:00,Discharged
+CF00322,80,Female,Low,Cardiology,Evening,DR020,20:08:00,Discharged
+CF00323,65,Female,Medium,General Emergency,Night,DR016,3:43:00,Discharged
+CF00324,85,Male,High,Orthopedics,Morning,DR012,9:16:00,Discharged
+CF00325,32,Female,Medium,Orthopedics,Evening,DR014,14:59:00,Admitted
+CF00326,50,Female,Medium,Orthopedics,Morning,DR013,11:09:00,Transferred
+CF00327,42,Male,Medium,Orthopedics,Morning,DR014,8:36:00,Discharged
+CF00328,89,Male,Medium,Cardiology,Morning,DR011,8:26:00,Admitted
+CF00329,57,Not recorded,Medium,General Emergency,Evening,DR015,19:10:00,Discharged
+CF00330,23,Not recorded,Medium,General Emergency,Morning,DR016,8:34:00,Discharged
+CF00331,45,Male,Low,Orthopedics,Morning,DR018,12:28:00,Discharged
+CF00332,85,Not recorded,Low,General Emergency,Evening,DR014,16:30:00,Discharged
+CF00333,23,Female,High,Orthopedics,Morning,DR002,6:30:00,Discharged
+CF00334,21,Not recorded,Medium,General Emergency,Evening,DR010,15:50:00,Discharged
+CF00335,36,Not recorded,Low,General Emergency,Morning,DR006,10:38:00,Discharged
+CF00336,73,Male,Medium,Respiratory,Morning,DR020,13:57:00,Discharged
+CF00337,49,Female,Low,Respiratory,Morning,DR003,12:16:00,Discharged
+CF00338,22,Male,Low,General Emergency,Night,DR001,4:54:00,Discharged
+CF00339,49,Male,Medium,Respiratory,Night,DR002,1:36:00,Discharged
+CF00340,53,Male,High,Orthopedics,Night,DR018,22:35:00,Discharged
+CF00341,86,Male,Medium,Respiratory,Evening,DR020,18:03:00,Discharged
+CF00342,48,Male,Medium,Orthopedics,Morning,DR004,12:13:00,Discharged
+CF00343,45,Female,Low,Cardiology,Night,DR018,22:43:00,Discharged
+CF00344,67,Female,Low,Orthopedics,Evening,DR005,19:31:00,Discharged
+CF00345,70,Male,High,General Emergency,Morning,DR014,9:32:00,Discharged
+CF00346,68,Not recorded,Low,Orthopedics,Morning,DR011,11:55:00,Discharged
+CF00347,30,Male,Medium,Orthopedics,Evening,DR009,18:21:00,Discharged
+CF00348,44,Male,Low,Orthopedics,Evening,DR006,18:46:00,Discharged
+CF00349,34,Female,Medium,Cardiology,Evening,DR016,21:59:00,Discharged
+CF00350,30,Female,Medium,Respiratory,Evening,DR005,18:20:00,Discharged
+CF00351,18,Female,Low,Orthopedics,Evening,DR018,16:31:00,Discharged
+CF00352,74,Not recorded,Medium,General Emergency,Evening,DR003,14:37:00,Discharged
+CF00353,65,Not recorded,Low,Cardiology,Morning,DR012,6:23:00,Discharged
+CF00354,85,Female,Medium,Orthopedics,Night,DR012,23:13:00,Discharged
+CF00355,84,Female,High,General Emergency,Evening,DR020,15:42:00,Discharged
+CF00356,42,Female,Medium,General Emergency,Morning,DR003,9:25:00,Discharged
+CF00357,28,Not recorded,Medium,Cardiology,Evening,DR001,15:35:00,Discharged
+CF00358,51,Not recorded,Low,Cardiology,Evening,DR012,17:14:00,Discharged
+CF00359,63,Not recorded,Medium,Respiratory,Evening,DR017,21:34:00,Discharged
+CF00360,25,Male,Medium,Respiratory,Evening,DR015,14:41:00,Transferred
+CF00361,77,Male,Medium,Respiratory,Evening,DR008,17:01:00,Discharged
+CF00362,61,Not recorded,Low,Respiratory,Night,DR007,4:22:00,Discharged
+CF00363,84,Female,Low,Respiratory,Night,DR010,23:50:00,Discharged
+CF00364,56,Male,Medium,General Emergency,Morning,DR006,13:39:00,Discharged
+CF00365,24,Not recorded,Medium,Orthopedics,Night,DR005,3:12:00,Discharged
+CF00366,79,Female,Low,Cardiology,Morning,DR014,9:19:00,Discharged
+CF00367,28,Male,Low,Orthopedics,Evening,DR020,18:34:00,Discharged
+CF00368,53,Not recorded,Medium,General Emergency,Evening,DR019,15:30:00,Discharged
+CF00369,72,Male,Medium,Orthopedics,Morning,DR013,8:05:00,Discharged
+CF00370,69,Male,Low,Respiratory,Night,DR010,22:27:00,Discharged
+CF00371,90,Female,Low,General Emergency,Evening,DR006,18:58:00,Admitted
+CF00372,58,Male,Medium,Respiratory,Evening,DR014,16:44:00,Admitted
+CF00373,77,Not recorded,High,Cardiology,Morning,DR015,6:16:00,Discharged
+CF00374,64,Not recorded,Medium,Respiratory,Night,DR017,22:35:00,Admitted
+CF00375,61,Male,Low,Orthopedics,Morning,DR013,10:43:00,Discharged
+CF00376,26,Male,Low,Orthopedics,Morning,DR010,11:00:00,Discharged
+CF00377,28,Male,Medium,Orthopedics,Night,DR006,23:42:00,Discharged
+CF00378,55,Not recorded,Medium,Orthopedics,Evening,DR020,14:35:00,Admitted
+CF00379,24,Not recorded,Low,Cardiology,Night,DR006,2:32:00,Discharged
+CF00380,32,Female,Low,Respiratory,Morning,DR017,10:31:00,Discharged
+CF00381,67,Not recorded,Low,Respiratory,Morning,DR006,9:24:00,Discharged
+CF00382,37,Not recorded,Medium,Cardiology,Morning,DR009,13:22:00,Discharged
+CF00383,70,Female,High,General Emergency,Morning,DR006,12:03:00,Discharged
+CF00384,21,Female,Low,General Emergency,Morning,DR005,12:07:00,Discharged
+CF00385,69,Female,Low,Respiratory,Evening,DR010,16:49:00,Discharged
+CF00386,25,Male,High,Cardiology,Morning,DR001,12:29:00,Transferred
+CF00387,61,Not recorded,High,Cardiology,Morning,DR020,8:29:00,Discharged
+CF00388,35,Not recorded,Medium,Cardiology,Evening,DR017,18:37:00,Discharged
+CF00389,62,Female,High,Respiratory,Evening,DR007,14:16:00,Discharged
+CF00390,29,Female,Medium,Orthopedics,Evening,DR010,16:05:00,Admitted
+CF00391,37,Female,Low,General Emergency,Night,DR003,3:48:00,Discharged
+CF00392,21,Not recorded,Medium,Cardiology,Evening,DR009,18:28:00,Discharged
+CF00393,39,Not recorded,High,Cardiology,Night,DR019,5:29:00,Discharged
+CF00394,21,Male,High,Respiratory,Evening,DR007,21:04:00,Discharged
+CF00395,21,Female,Medium,Cardiology,Evening,DR008,15:02:00,Admitted
+CF00396,29,Not recorded,Low,General Emergency,Evening,DR014,18:35:00,Discharged
+CF00397,69,Not recorded,Medium,Respiratory,Night,DR008,1:58:00,Discharged
+CF00398,62,Not recorded,Low,Orthopedics,Evening,DR010,20:52:00,Discharged
+CF00399,45,Male,Medium,Respiratory,Evening,DR011,14:48:00,Discharged
+CF00400,67,Not recorded,Low,General Emergency,Evening,DR003,14:38:00,Discharged
+CF00401,83,Not recorded,Medium,Respiratory,Evening,DR018,16:37:00,Discharged
+CF00402,76,Not recorded,High,Orthopedics,Evening,DR020,18:40:00,Discharged
+CF00403,56,Not recorded,Medium,Cardiology,Morning,DR004,8:33:00,Admitted
+CF00404,23,Female,Medium,General Emergency,Evening,DR018,18:05:00,Discharged
+CF00405,34,Not recorded,Medium,Cardiology,Morning,DR004,6:12:00,Discharged
+CF00406,50,Not recorded,Medium,Cardiology,Evening,DR012,14:31:00,Discharged
+CF00407,40,Female,High,Respiratory,Evening,DR018,20:26:00,Discharged
+CF00408,67,Not recorded,High,Cardiology,Evening,DR006,18:57:00,Discharged
+CF00409,50,Female,Medium,General Emergency,Morning,DR008,11:35:00,Discharged
+CF00410,20,Not recorded,Medium,Cardiology,Evening,DR008,19:35:00,Discharged
+CF00411,54,Not recorded,Medium,Respiratory,Evening,DR006,21:17:00,Admitted
+CF00412,85,Female,High,General Emergency,Morning,DR018,12:21:00,Discharged
+CF00413,72,Not recorded,Medium,General Emergency,Night,DR018,4:22:00,Transferred
+CF00414,76,Female,Low,Orthopedics,Evening,DR014,20:06:00,Discharged
+CF00415,39,Not recorded,Medium,Respiratory,Evening,DR014,19:39:00,Admitted
+CF00416,18,Not recorded,High,Respiratory,Night,DR005,4:16:00,Discharged
+CF00417,56,Male,Medium,Cardiology,Evening,DR003,15:55:00,Discharged
+CF00418,63,Male,Low,Respiratory,Night,DR018,4:23:00,Discharged
+CF00419,84,Not recorded,Medium,General Emergency,Morning,DR020,9:15:00,Discharged
+CF00420,85,Male,Low,Respiratory,Evening,DR008,18:52:00,Admitted
+CF00421,77,Not recorded,Medium,Respiratory,Night,DR001,22:39:00,Discharged
+CF00422,39,Male,Low,Orthopedics,Morning,DR006,9:46:00,Discharged
+CF00423,79,Female,Medium,Respiratory,Evening,DR010,21:51:00,Discharged
+CF00424,20,Female,Medium,Respiratory,Morning,DR008,9:23:00,Discharged
+CF00425,24,Male,High,Respiratory,Evening,DR011,17:27:00,Discharged
+CF00426,38,Male,Medium,Cardiology,Morning,DR011,12:13:00,Discharged
+CF00427,73,Not recorded,Medium,Respiratory,Morning,DR006,7:08:00,Discharged
+CF00428,84,Female,Low,General Emergency,Morning,DR012,13:46:00,Discharged
+CF00429,72,Not recorded,Medium,General Emergency,Morning,DR016,7:24:00,Discharged
+CF00430,89,Not recorded,Medium,General Emergency,Evening,DR019,18:31:00,Discharged
+CF00431,48,Male,Low,Respiratory,Night,DR014,1:11:00,Discharged
+CF00432,45,Female,Low,Orthopedics,Evening,DR006,21:09:00,Discharged
+CF00433,83,Female,Medium,Respiratory,Evening,DR019,15:18:00,Admitted
+CF00434,65,Not recorded,Low,Cardiology,Evening,DR002,16:58:00,Discharged
+CF00435,70,Not recorded,Medium,General Emergency,Evening,DR013,15:28:00,Admitted
+CF00436,62,Not recorded,High,Orthopedics,Morning,DR013,10:04:00,Discharged
+CF00437,37,Not recorded,High,General Emergency,Night,DR005,2:20:00,Discharged
+CF00438,26,Male,Medium,Orthopedics,Evening,DR010,19:13:00,Discharged
+CF00439,26,Not recorded,High,General Emergency,Evening,DR018,18:16:00,Discharged
+CF00440,31,Male,Medium,Cardiology,Evening,DR010,19:35:00,Discharged
+CF00441,84,Male,Low,General Emergency,Morning,DR014,12:21:00,Discharged
+CF00442,89,Female,Medium,General Emergency,Evening,DR018,18:47:00,Discharged
+CF00443,68,Male,High,General Emergency,Evening,DR009,21:50:00,Discharged
+CF00444,67,Male,Low,Orthopedics,Evening,DR019,14:21:00,Admitted
+CF00445,48,Not recorded,Medium,Respiratory,Night,DR008,0:26:00,Transferred
+CF00446,57,Male,Low,General Emergency,Morning,DR017,12:58:00,Discharged
+CF00447,64,Not recorded,Medium,Cardiology,Morning,DR013,9:37:00,Discharged
+CF00448,40,Not recorded,Low,General Emergency,Evening,DR010,14:57:00,Admitted
+CF00449,69,Female,High,General Emergency,Morning,DR011,13:56:00,Discharged
+CF00450,32,Female,Medium,Cardiology,Evening,DR004,15:02:00,Discharged
+CF00451,39,Male,High,Orthopedics,Evening,DR020,15:51:00,Admitted
+CF00452,50,Male,Medium,General Emergency,Evening,DR015,15:13:00,Discharged
+CF00453,45,Male,Medium,General Emergency,Night,DR012,3:47:00,Discharged
+CF00454,61,Not recorded,Medium,General Emergency,Morning,DR018,12:03:00,Discharged
+CF00455,45,Not recorded,Low,Cardiology,Night,DR002,0:59:00,Discharged
+CF00456,26,Not recorded,Medium,Cardiology,Evening,DR011,16:51:00,Discharged
+CF00457,58,Male,High,Orthopedics,Morning,DR012,6:07:00,Admitted
+CF00458,41,Female,Medium,General Emergency,Evening,DR005,14:41:00,Discharged
+CF00459,37,Male,Medium,Orthopedics,Morning,DR002,7:06:00,Discharged
+CF00460,61,Not recorded,Medium,Orthopedics,Evening,DR019,17:44:00,Discharged
+CF00461,55,Not recorded,Low,Orthopedics,Morning,DR019,12:19:00,Transferred
+CF00462,70,Male,Low,Respiratory,Morning,DR002,9:48:00,Admitted
+CF00463,73,Male,Low,Orthopedics,Morning,DR001,7:07:00,Discharged
+CF00464,34,Not recorded,Medium,Respiratory,Night,DR004,2:54:00,Discharged
+CF00465,78,Not recorded,High,Cardiology,Night,DR006,22:38:00,Discharged
+CF00466,32,Not recorded,Low,Respiratory,Morning,DR009,11:15:00,Discharged
+CF00467,40,Male,Medium,Orthopedics,Night,DR003,5:28:00,Discharged
+CF00468,31,Male,Medium,Cardiology,Evening,DR013,18:01:00,Discharged
+CF00469,50,Female,Low,Orthopedics,Evening,DR017,19:45:00,Discharged
+CF00470,48,Male,High,Cardiology,Morning,DR007,7:10:00,Discharged
+CF00471,80,Not recorded,Medium,Respiratory,Evening,DR011,18:05:00,Admitted
+CF00472,75,Not recorded,Low,Respiratory,Morning,DR003,10:22:00,Discharged
+CF00473,39,Male,Medium,General Emergency,Morning,DR012,8:02:00,Discharged
+CF00474,50,Male,High,Orthopedics,Morning,DR005,8:48:00,Discharged
+CF00475,27,Not recorded,Low,Orthopedics,Morning,DR020,9:44:00,Discharged
+CF00476,47,Not recorded,Medium,Cardiology,Morning,DR005,9:32:00,Discharged
+CF00477,52,Female,Medium,Orthopedics,Evening,DR006,14:53:00,Discharged
+CF00478,65,Male,Low,Cardiology,Evening,DR008,17:49:00,Discharged
+CF00479,32,Not recorded,Medium,Respiratory,Night,DR016,5:45:00,Discharged
+CF00480,42,Female,Low,Respiratory,Night,DR015,3:19:00,Discharged
+CF00481,66,Male,Low,Orthopedics,Evening,DR004,17:33:00,Discharged
+CF00482,54,Male,High,Cardiology,Evening,DR002,20:29:00,Discharged
+CF00483,52,Not recorded,Low,Orthopedics,Morning,DR015,13:35:00,Discharged
+CF00484,82,Not recorded,Medium,Respiratory,Night,DR018,0:44:00,Discharged
+CF00485,59,Not recorded,Medium,Respiratory,Night,DR019,1:33:00,Discharged
+CF00486,64,Female,Low,Respiratory,Evening,DR005,21:35:00,Discharged
+CF00487,55,Male,Low,Respiratory,Morning,DR007,8:42:00,Discharged
+CF00488,26,Male,Medium,Orthopedics,Morning,DR020,7:02:00,Discharged
+CF00489,48,Female,Low,Orthopedics,Evening,DR005,21:14:00,Discharged
+CF00490,73,Female,Medium,Respiratory,Morning,DR017,7:50:00,Discharged
+CF00491,71,Female,Medium,Cardiology,Morning,DR013,10:39:00,Discharged
+CF00492,29,Female,Medium,Respiratory,Morning,DR020,11:18:00,Admitted
+CF00493,45,Not recorded,Medium,Respiratory,Night,DR011,3:57:00,Discharged
+CF00494,50,Not recorded,Medium,Cardiology,Evening,DR003,20:27:00,Discharged
+CF00495,44,Male,Medium,Cardiology,Morning,DR003,13:36:00,Discharged
+CF00496,27,Not recorded,Medium,General Emergency,Morning,DR019,10:07:00,Discharged
+CF00497,29,Female,Low,Respiratory,Night,DR020,3:51:00,Discharged
+CF00498,69,Male,Low,Cardiology,Evening,DR005,14:08:00,Admitted
+CF00499,71,Female,Medium,General Emergency,Evening,DR009,17:28:00,Discharged
+CF00500,69,Female,Medium,Respiratory,Morning,DR001,12:49:00,Discharged
+CF00501,57,Female,High,General Emergency,Morning,DR007,11:59:00,Discharged
+CF00502,21,Not recorded,Low,Cardiology,Morning,DR010,13:35:00,Discharged
+CF00503,59,Not recorded,Medium,Orthopedics,Morning,DR020,8:15:00,Discharged
+CF00504,42,Female,Low,General Emergency,Night,DR001,1:33:00,Discharged
+CF00505,74,Not recorded,Medium,Respiratory,Morning,DR010,10:09:00,Transferred
+CF00506,83,Female,Low,Respiratory,Evening,DR016,19:13:00,Discharged
+CF00507,26,Male,High,General Emergency,Evening,DR010,20:36:00,Discharged
+CF00508,55,Female,Medium,Orthopedics,Night,DR004,22:44:00,Discharged
+CF00509,49,Female,Medium,Orthopedics,Evening,DR015,15:25:00,Discharged
+CF00510,36,Not recorded,Low,Respiratory,Morning,DR002,7:40:00,Discharged
+CF00511,57,Not recorded,Medium,General Emergency,Morning,DR015,9:16:00,Discharged
+CF00512,20,Female,Medium,Respiratory,Morning,DR018,11:31:00,Admitted
+CF00513,64,Female,Medium,Cardiology,Morning,DR005,8:09:00,Discharged
+CF00514,20,Male,Medium,Orthopedics,Morning,DR012,7:43:00,Discharged
+CF00515,54,Male,Low,General Emergency,Evening,DR016,15:51:00,Admitted
+CF00516,83,Male,Low,Orthopedics,Evening,DR020,16:29:00,Discharged
+CF00517,65,Female,Medium,Orthopedics,Morning,DR005,13:18:00,Discharged
+CF00518,38,Not recorded,Low,Respiratory,Evening,DR009,19:23:00,Discharged
+CF00519,51,Not recorded,Medium,General Emergency,Evening,DR011,16:15:00,Discharged
+CF00520,23,Not recorded,Low,Respiratory,Evening,DR015,15:21:00,Discharged
+CF00521,85,Female,High,Cardiology,Morning,DR011,7:30:00,Discharged
+CF00522,29,Not recorded,Medium,Orthopedics,Morning,DR003,7:50:00,Discharged
+CF00523,71,Female,Medium,Respiratory,Night,DR004,2:30:00,Discharged
+CF00524,61,Not recorded,Low,Respiratory,Night,DR005,23:26:00,Discharged
+CF00525,55,Not recorded,Low,General Emergency,Morning,DR017,9:26:00,Discharged
+CF00526,21,Male,Medium,Orthopedics,Morning,DR006,10:49:00,Discharged
+CF00527,33,Female,Low,Orthopedics,Evening,DR009,14:05:00,Discharged
+CF00528,20,Male,High,Orthopedics,Evening,DR006,16:32:00,Discharged
+CF00529,46,Female,Medium,Respiratory,Night,DR013,4:24:00,Discharged
+CF00530,55,Male,Medium,General Emergency,Evening,DR017,14:10:00,Admitted
+CF00531,29,Male,High,General Emergency,Night,DR016,3:11:00,Discharged
+CF00532,41,Not recorded,Low,Cardiology,Morning,DR015,6:57:00,Transferred
+CF00533,50,Female,High,Respiratory,Evening,DR012,15:32:00,Discharged
+CF00534,74,Male,High,Respiratory,Morning,DR015,11:01:00,Discharged
+CF00535,82,Female,High,Orthopedics,Morning,DR005,11:09:00,Discharged
+CF00536,53,Not recorded,Medium,Orthopedics,Evening,DR005,15:33:00,Discharged
+CF00537,53,Not recorded,Medium,General Emergency,Morning,DR018,7:08:00,Discharged
+CF00538,54,Not recorded,Medium,General Emergency,Night,DR007,22:11:00,Discharged
+CF00539,77,Not recorded,Medium,Cardiology,Night,DR018,22:36:00,Discharged
+CF00540,77,Not recorded,Low,General Emergency,Evening,DR020,14:34:00,Discharged
+CF00541,54,Male,Medium,General Emergency,Morning,DR008,13:54:00,Discharged
+CF00542,58,Male,Low,Cardiology,Evening,DR012,14:26:00,Discharged
+CF00543,31,Female,Low,Cardiology,Morning,DR004,11:16:00,Discharged
+CF00544,31,Female,High,Orthopedics,Night,DR005,22:42:00,Discharged
+CF00545,29,Male,Low,Cardiology,Evening,DR018,14:24:00,Discharged
+CF00546,87,Female,Medium,Respiratory,Evening,DR020,14:19:00,Discharged
+CF00547,52,Not recorded,Medium,Orthopedics,Evening,DR018,15:39:00,Discharged
+CF00548,18,Female,High,General Emergency,Morning,DR007,8:14:00,Discharged
+CF00549,56,Female,Low,General Emergency,Evening,DR011,20:05:00,Discharged
+CF00550,41,Male,Medium,General Emergency,Night,DR004,3:05:00,Admitted
+CF00551,87,Female,Medium,General Emergency,Morning,DR020,10:19:00,Discharged
+CF00552,18,Not recorded,Medium,Orthopedics,Morning,DR018,11:59:00,Discharged
+CF00553,81,Not recorded,Medium,General Emergency,Morning,DR005,6:39:00,Discharged
+CF00554,80,Female,Medium,General Emergency,Morning,DR020,11:30:00,Discharged
+CF00555,75,Not recorded,Low,Cardiology,Morning,DR015,9:11:00,Discharged
+CF00556,83,Female,Low,Cardiology,Evening,DR020,20:13:00,Discharged
+CF00557,82,Male,High,Cardiology,Morning,DR009,11:00:00,Admitted
+CF00558,74,Female,Medium,General Emergency,Evening,DR011,17:20:00,Discharged
+CF00559,45,Female,High,General Emergency,Evening,DR012,19:37:00,Discharged
+CF00560,47,Not recorded,High,Orthopedics,Evening,DR002,20:03:00,Discharged
+CF00561,46,Not recorded,Medium,Respiratory,Morning,DR016,10:13:00,Discharged
+CF00562,78,Male,High,General Emergency,Evening,DR001,21:58:00,Discharged
+CF00563,31,Not recorded,Medium,General Emergency,Evening,DR014,19:10:00,Discharged
+CF00564,33,Male,High,General Emergency,Evening,DR009,19:18:00,Admitted
+CF00565,73,Male,Medium,Orthopedics,Night,DR003,3:50:00,Discharged
+CF00566,79,Female,Low,Orthopedics,Night,DR007,4:57:00,Discharged
+CF00567,41,Not recorded,High,Cardiology,Night,DR004,2:38:00,Discharged
+CF00568,44,Male,High,General Emergency,Evening,DR006,16:43:00,Discharged
+CF00569,50,Male,Medium,Cardiology,Morning,DR007,8:28:00,Discharged
+CF00570,63,Male,Medium,Cardiology,Evening,DR003,17:44:00,Admitted
+CF00571,88,Not recorded,Low,Orthopedics,Morning,DR018,7:50:00,Discharged
+CF00572,33,Not recorded,High,Respiratory,Morning,DR019,13:08:00,Admitted
+CF00573,41,Female,High,Cardiology,Morning,DR007,8:56:00,Discharged
+CF00574,72,Not recorded,Medium,Cardiology,Morning,DR010,12:27:00,Discharged
+CF00575,60,Male,Medium,General Emergency,Evening,DR006,15:24:00,Discharged
+CF00576,86,Male,Low,Orthopedics,Morning,DR017,13:21:00,Discharged
+CF00577,60,Female,Low,Respiratory,Morning,DR012,10:51:00,Discharged
+CF00578,79,Female,Medium,Cardiology,Night,DR016,5:34:00,Discharged
+CF00579,37,Female,Low,Orthopedics,Morning,DR018,11:42:00,Admitted
+CF00580,58,Not recorded,Medium,Orthopedics,Morning,DR010,11:28:00,Admitted
+CF00581,28,Female,Low,General Emergency,Morning,DR017,13:08:00,Discharged
+CF00582,60,Male,High,General Emergency,Morning,DR012,8:21:00,Discharged
+CF00583,18,Not recorded,Medium,General Emergency,Night,DR019,1:11:00,Discharged
+CF00584,33,Female,Medium,General Emergency,Morning,DR020,7:19:00,Discharged
+CF00585,22,Male,High,Respiratory,Morning,DR015,9:09:00,Discharged
+CF00586,42,Female,High,General Emergency,Evening,DR002,14:00:00,Admitted
+CF00587,55,Not recorded,Low,Cardiology,Morning,DR002,11:24:00,Admitted
+CF00588,20,Male,Low,General Emergency,Morning,DR002,10:50:00,Discharged
+CF00589,26,Female,Medium,General Emergency,Night,DR016,5:33:00,Discharged
+CF00590,84,Not recorded,Low,Respiratory,Evening,DR006,18:46:00,Discharged
+CF00591,69,Male,Low,Orthopedics,Evening,DR007,14:38:00,Discharged
+CF00592,45,Not recorded,Low,Respiratory,Morning,DR002,12:35:00,Discharged
+CF00593,69,Female,Medium,Respiratory,Morning,DR010,6:26:00,Discharged
+CF00594,77,Male,High,General Emergency,Morning,DR018,8:44:00,Discharged
+CF00595,19,Female,Medium,General Emergency,Morning,DR001,9:30:00,Discharged
+CF00596,71,Not recorded,Low,Respiratory,Evening,DR013,14:33:00,Discharged
+CF00597,66,Female,Medium,General Emergency,Morning,DR012,6:25:00,Discharged
+CF00598,90,Female,High,General Emergency,Evening,DR008,16:28:00,Discharged
+CF00599,81,Female,Medium,Orthopedics,Night,DR006,5:17:00,Discharged
+CF00600,43,Not recorded,Medium,General Emergency,Morning,DR013,7:57:00,Discharged
+CF00601,28,Not recorded,Medium,Cardiology,Morning,DR019,13:42:00,Discharged
+CF00602,38,Not recorded,High,General Emergency,Evening,DR006,18:52:00,Admitted
+CF00603,33,Female,Low,Cardiology,Morning,DR002,7:23:00,Discharged
+CF00604,61,Male,Medium,Orthopedics,Morning,DR010,7:54:00,Discharged
+CF00605,46,Not recorded,Low,Orthopedics,Morning,DR008,11:29:00,Admitted
+CF00606,54,Not recorded,Low,Cardiology,Evening,DR014,14:55:00,Discharged
+CF00607,66,Female,High,General Emergency,Morning,DR011,13:05:00,Discharged
+CF00608,77,Male,Medium,General Emergency,Morning,DR014,9:05:00,Admitted
+CF00609,50,Male,Medium,Orthopedics,Night,DR018,3:56:00,Admitted
+CF00610,38,Not recorded,Low,General Emergency,Evening,DR004,17:59:00,Admitted
+CF00611,46,Male,Medium,Cardiology,Morning,DR002,9:40:00,Discharged
+CF00612,44,Male,Low,Respiratory,Morning,DR019,10:55:00,Discharged
+CF00613,23,Not recorded,Medium,Respiratory,Evening,DR010,19:14:00,Discharged
+CF00614,28,Not recorded,Medium,Respiratory,Morning,DR019,8:48:00,Admitted
+CF00615,27,Not recorded,Low,General Emergency,Morning,DR011,13:04:00,Discharged
+CF00616,70,Not recorded,Medium,Orthopedics,Morning,DR014,9:34:00,Admitted
+CF00617,79,Not recorded,Medium,Respiratory,Morning,DR016,11:07:00,Discharged
+CF00618,32,Female,High,Respiratory,Evening,DR014,15:44:00,Transferred
+CF00619,44,Female,Medium,Orthopedics,Evening,DR004,17:19:00,Discharged
+CF00620,37,Not recorded,Medium,Cardiology,Night,DR012,0:53:00,Discharged
+CF00621,22,Female,High,Respiratory,Evening,DR016,21:28:00,Discharged
+CF00622,45,Male,Medium,Respiratory,Evening,DR002,21:24:00,Discharged
+CF00623,46,Not recorded,High,General Emergency,Morning,DR004,7:24:00,Discharged
+CF00624,79,Male,Low,Cardiology,Morning,DR019,11:28:00,Discharged
+CF00625,21,Male,Medium,Cardiology,Night,DR002,23:05:00,Admitted
+CF00626,56,Female,Low,Cardiology,Night,DR017,3:31:00,Admitted
+CF00627,69,Female,Low,Orthopedics,Night,DR002,22:40:00,Discharged
+CF00628,26,Not recorded,Medium,Cardiology,Evening,DR014,14:54:00,Discharged
+CF00629,57,Male,Medium,Cardiology,Morning,DR012,13:20:00,Discharged
+CF00630,44,Female,Medium,Respiratory,Evening,DR006,18:14:00,Discharged
+CF00631,36,Male,Medium,Orthopedics,Morning,DR003,13:56:00,Admitted
+CF00632,82,Not recorded,Medium,General Emergency,Evening,DR020,15:45:00,Discharged
+CF00633,46,Not recorded,Low,Orthopedics,Night,DR019,3:13:00,Discharged
+CF00634,73,Not recorded,Medium,General Emergency,Evening,DR004,15:26:00,Discharged
+CF00635,67,Not recorded,Low,General Emergency,Evening,DR012,18:42:00,Admitted
+CF00636,64,Not recorded,Medium,Orthopedics,Morning,DR010,13:02:00,Discharged
+CF00637,48,Not recorded,Medium,Respiratory,Morning,DR014,11:50:00,Discharged
+CF00638,23,Not recorded,Medium,General Emergency,Morning,DR015,10:42:00,Discharged
+CF00639,87,Not recorded,Medium,Cardiology,Morning,DR020,11:27:00,Discharged
+CF00640,73,Not recorded,Medium,Respiratory,Evening,DR002,18:46:00,Transferred
+CF00641,23,Not recorded,Medium,Orthopedics,Evening,DR007,21:13:00,Discharged
+CF00642,82,Not recorded,Medium,Cardiology,Night,DR017,5:08:00,Discharged
+CF00643,74,Male,Low,Cardiology,Morning,DR003,10:05:00,Admitted
+CF00644,27,Female,Low,Cardiology,Morning,DR015,12:33:00,Discharged
+CF00645,82,Female,Medium,Cardiology,Evening,DR006,14:54:00,Discharged
+CF00646,70,Not recorded,Low,General Emergency,Morning,DR004,11:34:00,Discharged
+CF00647,62,Not recorded,Medium,Respiratory,Evening,DR005,17:59:00,Transferred
+CF00648,25,Not recorded,Low,General Emergency,Night,DR011,1:34:00,Discharged
+CF00649,66,Female,Medium,Orthopedics,Night,DR010,1:18:00,Discharged
+CF00650,69,Female,Medium,Respiratory,Evening,DR002,18:31:00,Discharged
+CF00651,34,Male,High,Orthopedics,Evening,DR002,21:11:00,Admitted
+CF00652,78,Female,Medium,Respiratory,Evening,DR002,21:52:00,Discharged
+CF00653,45,Male,High,General Emergency,Morning,DR018,11:14:00,Discharged
+CF00654,72,Female,Medium,General Emergency,Morning,DR014,12:29:00,Discharged
+CF00655,33,Not recorded,Medium,Orthopedics,Evening,DR005,14:43:00,Discharged
+CF00656,28,Not recorded,Low,General Emergency,Evening,DR012,15:05:00,Discharged
+CF00657,66,Not recorded,High,Respiratory,Night,DR014,1:48:00,Admitted
+CF00658,76,Male,Medium,Cardiology,Morning,DR009,13:29:00,Discharged
+CF00659,27,Female,Medium,Respiratory,Evening,DR017,19:14:00,Discharged
+CF00660,18,Not recorded,Low,Respiratory,Night,DR005,3:36:00,Discharged
+CF00661,30,Female,Medium,Orthopedics,Evening,DR019,21:17:00,Discharged
+CF00662,30,Female,Medium,Orthopedics,Morning,DR017,12:39:00,Discharged
+CF00663,25,Not recorded,Low,Orthopedics,Morning,DR005,11:59:00,Admitted
+CF00664,61,Not recorded,Medium,Orthopedics,Morning,DR013,7:54:00,Discharged
+CF00665,57,Not recorded,High,Orthopedics,Morning,DR020,10:57:00,Discharged
+CF00666,24,Female,Medium,Respiratory,Night,DR012,1:50:00,Discharged
+CF00667,49,Female,High,Orthopedics,Night,DR017,2:02:00,Admitted
+CF00668,23,Male,Low,Respiratory,Morning,DR002,8:56:00,Discharged
+CF00669,56,Not recorded,Medium,Cardiology,Night,DR020,22:40:00,Admitted
+CF00670,56,Female,Medium,Respiratory,Morning,DR015,13:34:00,Discharged
+CF00671,23,Male,High,Cardiology,Night,DR020,1:39:00,Discharged
+CF00672,52,Female,Medium,Orthopedics,Night,DR012,0:57:00,Admitted
+CF00673,22,Not recorded,High,Respiratory,Morning,DR002,7:09:00,Discharged
+CF00674,30,Male,Medium,Orthopedics,Morning,DR006,7:02:00,Discharged
+CF00675,82,Male,Low,Cardiology,Morning,DR014,12:20:00,Discharged
+CF00676,86,Female,Medium,Respiratory,Morning,DR014,10:16:00,Discharged
+CF00677,51,Male,High,Cardiology,Evening,DR013,20:21:00,Discharged
+CF00678,79,Not recorded,Medium,Orthopedics,Morning,DR012,8:53:00,Discharged
+CF00679,42,Female,Medium,Respiratory,Evening,DR013,14:01:00,Discharged
+CF00680,80,Not recorded,Low,Respiratory,Morning,DR007,9:28:00,Discharged
+CF00681,75,Not recorded,Medium,Orthopedics,Evening,DR005,20:41:00,Discharged
+CF00682,19,Female,Medium,Orthopedics,Night,DR012,4:14:00,Discharged
+CF00683,31,Female,Medium,Cardiology,Night,DR006,0:53:00,Discharged
+CF00684,37,Male,Medium,Orthopedics,Evening,DR015,16:59:00,Discharged
+CF00685,61,Male,High,Respiratory,Evening,DR013,16:33:00,Discharged
+CF00686,36,Male,Low,Respiratory,Evening,DR017,19:47:00,Admitted
+CF00687,40,Not recorded,Medium,Respiratory,Evening,DR002,17:39:00,Discharged
+CF00688,44,Female,Medium,Respiratory,Morning,DR007,9:00:00,Discharged
+CF00689,64,Male,High,Cardiology,Night,DR013,2:48:00,Discharged
+CF00690,35,Male,Low,General Emergency,Evening,DR008,16:40:00,Discharged
+CF00691,43,Not recorded,High,General Emergency,Morning,DR015,11:05:00,Discharged
+CF00692,59,Not recorded,Low,General Emergency,Evening,DR014,17:35:00,Discharged
+CF00693,30,Female,High,Respiratory,Morning,DR016,8:55:00,Discharged
+CF00694,81,Male,Low,Orthopedics,Evening,DR013,16:02:00,Discharged
+CF00695,75,Not recorded,Medium,Respiratory,Morning,DR014,12:28:00,Discharged
+CF00696,75,Female,Low,Orthopedics,Night,DR004,0:23:00,Discharged
+CF00697,42,Male,Medium,Respiratory,Evening,DR003,19:00:00,Discharged
+CF00698,41,Female,Medium,Orthopedics,Morning,DR011,7:11:00,Discharged
+CF00699,20,Male,Medium,General Emergency,Night,DR008,4:51:00,Admitted
+CF00700,52,Not recorded,Medium,Orthopedics,Morning,DR010,11:38:00,Transferred
+CF00701,23,Not recorded,High,General Emergency,Morning,DR001,6:24:00,Discharged
+CF00702,82,Female,Medium,Cardiology,Night,DR015,4:04:00,Discharged
+CF00703,28,Male,High,General Emergency,Morning,DR019,12:29:00,Discharged
+CF00704,35,Not recorded,Medium,Respiratory,Morning,DR019,9:19:00,Transferred
+CF00705,52,Not recorded,Low,Cardiology,Morning,DR020,10:33:00,Discharged
+CF00706,42,Male,Low,Cardiology,Morning,DR012,13:40:00,Discharged
+CF00707,24,Male,Low,General Emergency,Morning,DR010,12:58:00,Discharged
+CF00708,72,Male,Medium,Respiratory,Evening,DR012,15:32:00,Discharged
+CF00709,58,Female,Medium,General Emergency,Morning,DR003,7:52:00,Discharged
+CF00710,39,Female,Low,Respiratory,Evening,DR020,15:59:00,Discharged
+CF00711,56,Male,Medium,Orthopedics,Evening,DR010,21:51:00,Discharged
+CF00712,66,Not recorded,High,General Emergency,Morning,DR014,6:12:00,Discharged
+CF00713,29,Not recorded,Medium,Orthopedics,Evening,DR004,20:31:00,Discharged
+CF00714,61,Not recorded,Low,Cardiology,Morning,DR017,8:05:00,Admitted
+CF00715,22,Not recorded,Medium,General Emergency,Evening,DR003,19:49:00,Transferred
+CF00716,20,Male,Low,General Emergency,Morning,DR001,7:22:00,Discharged
+CF00717,42,Male,Medium,Respiratory,Evening,DR008,14:29:00,Discharged
+CF00718,78,Female,Medium,Orthopedics,Morning,DR005,8:48:00,Discharged
+CF00719,51,Not recorded,Medium,General Emergency,Morning,DR009,8:56:00,Discharged
+CF00720,19,Female,Medium,Cardiology,Morning,DR017,10:18:00,Discharged
+CF00721,43,Female,Medium,Orthopedics,Night,DR008,1:26:00,Discharged
+CF00722,85,Not recorded,Low,Cardiology,Morning,DR015,8:17:00,Discharged
+CF00723,30,Not recorded,Medium,Respiratory,Evening,DR019,21:02:00,Discharged
+CF00724,80,Female,Low,General Emergency,Night,DR013,23:36:00,Discharged
+CF00725,30,Not recorded,Medium,General Emergency,Morning,DR004,12:18:00,Admitted
+CF00726,48,Not recorded,High,Orthopedics,Night,DR009,0:11:00,Admitted
+CF00727,79,Not recorded,Low,Orthopedics,Morning,DR005,11:55:00,Discharged
+CF00728,23,Male,Medium,General Emergency,Evening,DR005,14:38:00,Discharged
+CF00729,80,Not recorded,Medium,Respiratory,Night,DR012,3:10:00,Discharged
+CF00730,80,Female,High,Respiratory,Evening,DR014,18:55:00,Discharged
+CF00731,47,Female,Medium,Cardiology,Morning,DR009,6:34:00,Admitted
+CF00732,60,Not recorded,Medium,Respiratory,Evening,DR019,21:36:00,Discharged
+CF00733,46,Female,High,General Emergency,Evening,DR017,21:16:00,Discharged
+CF00734,66,Female,Medium,Orthopedics,Morning,DR019,12:48:00,Discharged
+CF00735,69,Not recorded,Medium,General Emergency,Night,DR020,4:43:00,Discharged
+CF00736,18,Not recorded,Low,Cardiology,Morning,DR007,8:43:00,Admitted
+CF00737,72,Male,Low,Respiratory,Night,DR016,0:54:00,Discharged
+CF00738,31,Not recorded,Medium,Cardiology,Morning,DR001,8:09:00,Discharged
+CF00739,18,Not recorded,Medium,Cardiology,Morning,DR015,10:36:00,Discharged
+CF00740,38,Not recorded,Medium,Cardiology,Morning,DR014,6:45:00,Discharged
+CF00741,80,Male,High,Respiratory,Night,DR013,22:04:00,Discharged
+CF00742,50,Not recorded,Low,Cardiology,Evening,DR019,21:57:00,Discharged
+CF00743,38,Female,Medium,Orthopedics,Evening,DR018,21:41:00,Admitted
+CF00744,83,Male,Medium,Orthopedics,Morning,DR015,9:10:00,Discharged
+CF00745,73,Female,Low,Respiratory,Evening,DR002,17:55:00,Discharged
+CF00746,24,Female,Low,General Emergency,Morning,DR001,7:40:00,Discharged
+CF00747,88,Male,Medium,Respiratory,Morning,DR020,7:06:00,Admitted
+CF00748,26,Male,Low,Cardiology,Evening,DR003,20:25:00,Discharged
+CF00749,35,Not recorded,Medium,Orthopedics,Night,DR016,1:26:00,Discharged
+CF00750,48,Not recorded,Medium,General Emergency,Evening,DR004,16:22:00,Discharged
+CF00751,78,Not recorded,Medium,Cardiology,Night,DR010,1:43:00,Discharged
+CF00752,23,Not recorded,Medium,Orthopedics,Morning,DR002,7:29:00,Discharged
+CF00753,58,Female,Low,General Emergency,Night,DR013,22:42:00,Discharged
+CF00754,51,Male,Low,Orthopedics,Evening,DR013,17:19:00,Discharged
+CF00755,75,Not recorded,Low,Respiratory,Night,DR002,23:49:00,Discharged
+CF00756,59,Female,High,Cardiology,Night,DR002,2:11:00,Discharged
+CF00757,23,Not recorded,Medium,Orthopedics,Morning,DR003,6:54:00,Discharged
+CF00758,42,Not recorded,Low,Respiratory,Evening,DR010,19:34:00,Discharged
+CF00759,47,Not recorded,Medium,Respiratory,Evening,DR015,14:14:00,Discharged
+CF00760,85,Not recorded,Medium,Cardiology,Evening,DR016,15:12:00,Discharged
+CF00761,87,Female,High,Respiratory,Evening,DR011,19:41:00,Discharged
+CF00762,35,Female,Low,Orthopedics,Night,DR003,2:20:00,Admitted
+CF00763,25,Male,Medium,General Emergency,Evening,DR002,15:59:00,Discharged
+CF00764,41,Female,High,Respiratory,Morning,DR017,10:49:00,Discharged
+CF00765,45,Male,High,Cardiology,Morning,DR005,13:22:00,Discharged
+CF00766,81,Female,High,Orthopedics,Evening,DR013,18:06:00,Discharged
+CF00767,78,Not recorded,Medium,General Emergency,Evening,DR005,14:49:00,Discharged
+CF00768,88,Not recorded,High,General Emergency,Night,DR016,3:19:00,Discharged
+CF00769,39,Female,Low,Respiratory,Morning,DR001,7:45:00,Discharged
+CF00770,57,Not recorded,Medium,Cardiology,Morning,DR007,10:34:00,Discharged
+CF00771,61,Female,Low,General Emergency,Evening,DR014,15:11:00,Discharged
+CF00772,69,Female,Low,Cardiology,Evening,DR004,17:55:00,Admitted
+CF00773,85,Female,Low,Respiratory,Evening,DR002,18:37:00,Discharged
+CF00774,21,Male,Medium,Orthopedics,Night,DR002,1:15:00,Discharged
+CF00775,46,Female,Medium,General Emergency,Morning,DR016,7:39:00,Discharged
+CF00776,73,Female,High,General Emergency,Evening,DR013,14:48:00,Discharged
+CF00777,57,Male,Low,Orthopedics,Evening,DR011,16:30:00,Discharged
+CF00778,84,Male,Medium,Cardiology,Morning,DR006,12:17:00,Discharged
+CF00779,65,Female,Medium,Respiratory,Evening,DR019,20:31:00,Discharged
+CF00780,30,Male,Low,Respiratory,Evening,DR001,14:40:00,Discharged
+CF00781,58,Not recorded,Medium,General Emergency,Morning,DR002,11:11:00,Discharged
+CF00782,59,Male,High,Respiratory,Evening,DR013,14:33:00,Discharged
+CF00783,25,Female,Low,Respiratory,Night,DR020,5:46:00,Discharged
+CF00784,90,Male,Low,Respiratory,Evening,DR012,21:39:00,Discharged
+CF00785,75,Not recorded,High,Cardiology,Morning,DR013,10:18:00,Discharged
+CF00786,66,Female,Medium,Orthopedics,Morning,DR004,10:44:00,Discharged
+CF00787,43,Not recorded,Medium,Orthopedics,Morning,DR009,8:18:00,Admitted
+CF00788,88,Male,High,Orthopedics,Evening,DR017,18:06:00,Admitted
+CF00789,50,Not recorded,Low,General Emergency,Morning,DR015,10:20:00,Discharged
+CF00790,66,Female,Medium,General Emergency,Night,DR017,0:35:00,Discharged
+CF00791,76,Female,Low,General Emergency,Evening,DR008,15:19:00,Discharged
+CF00792,21,Male,Medium,General Emergency,Evening,DR008,15:52:00,Discharged
+CF00793,21,Not recorded,Medium,General Emergency,Morning,DR004,9:31:00,Discharged
+CF00794,39,Male,Medium,Respiratory,Night,DR011,5:06:00,Discharged
+CF00795,42,Female,Medium,Respiratory,Evening,DR008,17:01:00,Discharged
+CF00796,55,Male,High,Respiratory,Night,DR001,3:35:00,Transferred
+CF00797,40,Male,Low,General Emergency,Evening,DR014,17:05:00,Discharged
+CF00798,72,Male,Low,Cardiology,Night,DR009,5:52:00,Discharged
+CF00799,65,Male,Low,Respiratory,Evening,DR002,17:06:00,Admitted
+CF00800,88,Male,Medium,Cardiology,Morning,DR002,6:45:00,Discharged
+CF00801,78,Male,Medium,Orthopedics,Morning,DR019,10:02:00,Discharged
+CF00802,58,Female,Medium,Respiratory,Night,DR003,4:49:00,Transferred
+CF00803,79,Not recorded,Medium,Respiratory,Night,DR015,22:50:00,Discharged
+CF00804,73,Not recorded,High,General Emergency,Morning,DR001,7:05:00,Discharged
+CF00805,66,Not recorded,Low,Orthopedics,Morning,DR014,8:18:00,Discharged
+CF00806,81,Female,Medium,Respiratory,Evening,DR017,17:22:00,Discharged
+CF00807,55,Not recorded,Medium,Cardiology,Evening,DR019,18:59:00,Discharged
+CF00808,38,Male,Low,General Emergency,Morning,DR014,13:48:00,Discharged
+CF00809,33,Male,Low,Cardiology,Evening,DR015,19:16:00,Discharged
+CF00810,27,Not recorded,High,General Emergency,Morning,DR005,13:17:00,Discharged
+CF00811,79,Male,Medium,General Emergency,Night,DR019,0:34:00,Discharged
+CF00812,59,Female,Medium,Cardiology,Evening,DR013,14:35:00,Discharged
+CF00813,71,Male,Low,General Emergency,Evening,DR006,20:51:00,Discharged
+CF00814,72,Not recorded,Medium,General Emergency,Evening,DR004,15:16:00,Discharged
+CF00815,43,Male,High,Orthopedics,Morning,DR003,6:31:00,Discharged
+CF00816,78,Male,Medium,General Emergency,Night,DR011,4:47:00,Discharged
+CF00817,50,Male,Low,Cardiology,Evening,DR016,14:49:00,Discharged
+CF00818,64,Male,High,Cardiology,Morning,DR002,13:59:00,Transferred
+CF00819,30,Female,Medium,Respiratory,Evening,DR006,18:09:00,Discharged
+CF00820,60,Not recorded,Medium,Cardiology,Morning,DR005,9:56:00,Discharged
+CF00821,71,Not recorded,High,Cardiology,Evening,DR020,20:39:00,Discharged
+CF00822,39,Not recorded,Medium,Respiratory,Morning,DR004,11:01:00,Transferred
+CF00823,86,Not recorded,Medium,General Emergency,Evening,DR007,16:45:00,Discharged
+CF00824,45,Female,Medium,Respiratory,Morning,DR001,10:12:00,Discharged
+CF00825,42,Male,Medium,Respiratory,Morning,DR013,10:01:00,Discharged
+CF00826,60,Male,Low,General Emergency,Morning,DR009,10:29:00,Discharged
+CF00827,41,Female,Low,Respiratory,Morning,DR018,9:56:00,Discharged
+CF00828,70,Male,Low,Respiratory,Evening,DR013,16:34:00,Discharged
+CF00829,63,Female,Low,General Emergency,Evening,DR007,21:16:00,Discharged
+CF00830,46,Not recorded,Low,General Emergency,Morning,DR013,11:27:00,Discharged
+CF00831,36,Male,Low,General Emergency,Evening,DR008,21:12:00,Discharged
+CF00832,41,Female,Medium,Orthopedics,Morning,DR005,7:47:00,Discharged
+CF00833,71,Female,Medium,General Emergency,Morning,DR009,13:43:00,Discharged
+CF00834,42,Male,Low,Orthopedics,Morning,DR001,11:22:00,Discharged
+CF00835,79,Not recorded,High,Respiratory,Morning,DR013,11:49:00,Admitted
+CF00836,88,Female,Medium,General Emergency,Evening,DR010,15:35:00,Discharged
+CF00837,37,Not recorded,Medium,Cardiology,Evening,DR006,16:49:00,Discharged
+CF00838,53,Not recorded,Low,General Emergency,Night,DR018,1:51:00,Admitted
+CF00839,37,Not recorded,Medium,Cardiology,Night,DR001,1:37:00,Discharged
+CF00840,26,Male,Medium,Cardiology,Evening,DR005,15:36:00,Discharged
+CF00841,21,Not recorded,High,General Emergency,Evening,DR018,16:11:00,Discharged
+CF00842,83,Female,Medium,Orthopedics,Morning,DR020,13:37:00,Discharged
+CF00843,34,Not recorded,High,General Emergency,Evening,DR015,17:42:00,Discharged
+CF00844,66,Female,Medium,Cardiology,Evening,DR006,20:42:00,Discharged
+CF00845,31,Not recorded,Medium,General Emergency,Evening,DR019,19:07:00,Discharged
+CF00846,76,Male,Medium,Respiratory,Morning,DR008,11:54:00,Discharged
+CF00847,80,Male,Low,Orthopedics,Morning,DR011,12:34:00,Transferred
+CF00848,43,Not recorded,Medium,Cardiology,Evening,DR015,14:09:00,Discharged
+CF00849,38,Not recorded,Medium,General Emergency,Morning,DR001,8:28:00,Discharged
+CF00850,89,Female,Medium,General Emergency,Morning,DR018,12:01:00,Discharged
+CF00851,81,Male,Low,Cardiology,Morning,DR017,8:26:00,Discharged
+CF00852,80,Male,Medium,Cardiology,Morning,DR013,8:58:00,Discharged
+CF00853,25,Female,Low,Orthopedics,Morning,DR007,8:31:00,Discharged
+CF00854,18,Female,Medium,General Emergency,Evening,DR001,14:10:00,Discharged
+CF00855,77,Not recorded,Low,Orthopedics,Evening,DR009,18:58:00,Discharged
+CF00856,71,Not recorded,Low,Cardiology,Evening,DR016,14:47:00,Discharged
+CF00857,20,Male,Medium,General Emergency,Evening,DR011,15:11:00,Discharged
+CF00858,81,Not recorded,Medium,Orthopedics,Morning,DR004,12:36:00,Discharged
+CF00859,20,Not recorded,High,Orthopedics,Morning,DR010,12:39:00,Discharged
+CF00860,58,Male,Medium,Cardiology,Night,DR017,1:01:00,Discharged
+CF00861,23,Not recorded,Low,Orthopedics,Evening,DR015,18:58:00,Admitted
+CF00862,18,Not recorded,Medium,Cardiology,Evening,DR005,16:19:00,Discharged
+CF00863,56,Not recorded,Medium,Orthopedics,Evening,DR010,19:04:00,Discharged
+CF00864,85,Male,High,Cardiology,Morning,DR006,10:13:00,Discharged
+CF00865,24,Female,Medium,General Emergency,Morning,DR018,13:32:00,Discharged
+CF00866,66,Not recorded,Medium,Cardiology,Night,DR018,3:56:00,Discharged
+CF00867,58,Male,Low,Orthopedics,Morning,DR010,10:17:00,Admitted
+CF00868,34,Female,Medium,Respiratory,Morning,DR007,13:47:00,Discharged
+CF00869,65,Not recorded,Medium,Cardiology,Morning,DR009,9:37:00,Discharged
+CF00870,59,Male,High,Cardiology,Evening,DR007,21:17:00,Admitted
+CF00871,40,Female,Low,Cardiology,Evening,DR016,20:58:00,Discharged
+CF00872,72,Female,Medium,Respiratory,Morning,DR002,12:43:00,Discharged
+CF00873,37,Female,High,General Emergency,Evening,DR012,19:16:00,Discharged
+CF00874,61,Male,High,General Emergency,Night,DR014,0:53:00,Discharged
+CF00875,45,Not recorded,Low,Respiratory,Evening,DR016,15:02:00,Discharged
+CF00876,25,Female,Medium,Respiratory,Evening,DR015,21:02:00,Discharged
+CF00877,80,Female,Medium,Orthopedics,Night,DR004,3:26:00,Admitted
+CF00878,29,Female,Medium,General Emergency,Morning,DR011,10:59:00,Admitted
+CF00879,43,Male,Medium,Cardiology,Morning,DR014,11:17:00,Discharged
+CF00880,83,Female,Medium,Orthopedics,Evening,DR003,16:28:00,Discharged
+CF00881,61,Not recorded,Low,General Emergency,Morning,DR018,8:43:00,Discharged
+CF00882,26,Male,High,General Emergency,Evening,DR001,21:19:00,Discharged
+CF00883,68,Female,Low,General Emergency,Evening,DR017,20:18:00,Discharged
+CF00884,60,Female,Medium,Orthopedics,Morning,DR005,11:59:00,Discharged
+CF00885,30,Male,Medium,Respiratory,Morning,DR003,13:06:00,Discharged
+CF00886,66,Not recorded,Medium,Cardiology,Morning,DR007,11:16:00,Discharged
+CF00887,82,Not recorded,Low,Cardiology,Evening,DR007,16:58:00,Discharged
+CF00888,75,Male,Low,Respiratory,Morning,DR011,10:45:00,Discharged
+CF00889,88,Male,High,General Emergency,Morning,DR019,7:55:00,Discharged
+CF00890,23,Not recorded,Medium,Respiratory,Evening,DR007,15:48:00,Discharged
+CF00891,18,Male,Medium,Respiratory,Morning,DR012,13:17:00,Discharged
+CF00892,60,Male,Medium,Orthopedics,Night,DR016,22:49:00,Discharged
+CF00893,31,Male,Low,General Emergency,Evening,DR002,20:48:00,Discharged
+CF00894,39,Not recorded,Medium,General Emergency,Night,DR011,4:36:00,Discharged
+CF00895,39,Not recorded,Low,General Emergency,Morning,DR014,13:15:00,Discharged
+CF00896,23,Not recorded,Low,Respiratory,Night,DR010,22:19:00,Discharged
+CF00897,27,Not recorded,Medium,Cardiology,Night,DR011,22:57:00,Discharged
+CF00898,24,Male,Medium,Cardiology,Evening,DR008,15:25:00,Discharged
+CF00899,68,Not recorded,Medium,Respiratory,Morning,DR017,6:41:00,Discharged
+CF00900,82,Male,Medium,Cardiology,Morning,DR012,13:06:00,Discharged
+CF00901,20,Not recorded,Medium,Orthopedics,Night,DR016,0:16:00,Discharged
+CF00902,84,Not recorded,High,Orthopedics,Morning,DR016,11:17:00,Discharged
+CF00903,75,Female,Low,General Emergency,Morning,DR006,6:02:00,Discharged
+CF00904,44,Male,Medium,General Emergency,Evening,DR011,16:34:00,Discharged
+CF00905,80,Not recorded,Medium,Respiratory,Night,DR019,23:43:00,Transferred
+CF00906,41,Not recorded,Medium,General Emergency,Evening,DR016,17:48:00,Discharged
+CF00907,85,Not recorded,High,Orthopedics,Evening,DR007,20:43:00,Discharged
+CF00908,54,Not recorded,High,Orthopedics,Morning,DR002,10:53:00,Discharged
+CF00909,87,Not recorded,Low,Orthopedics,Evening,DR004,15:57:00,Admitted
+CF00910,42,Not recorded,Low,Cardiology,Morning,DR007,11:54:00,Discharged
+CF00911,56,Not recorded,High,Orthopedics,Morning,DR016,6:17:00,Discharged
+CF00912,24,Not recorded,Medium,Orthopedics,Night,DR004,1:59:00,Admitted
+CF00913,83,Female,Low,Orthopedics,Evening,DR001,18:59:00,Discharged
+CF00914,33,Female,High,Orthopedics,Evening,DR019,20:11:00,Discharged
+CF00915,63,Female,Medium,Respiratory,Night,DR002,22:54:00,Discharged
+CF00916,50,Not recorded,Low,Orthopedics,Morning,DR018,9:53:00,Discharged
+CF00917,56,Female,Medium,Respiratory,Night,DR006,1:40:00,Discharged
+CF00918,51,Female,Medium,Respiratory,Morning,DR009,11:17:00,Admitted
+CF00919,77,Male,High,Cardiology,Morning,DR018,6:14:00,Discharged
+CF00920,37,Male,Low,Cardiology,Evening,DR012,14:07:00,Discharged
+CF00921,85,Not recorded,Low,Cardiology,Morning,DR005,11:48:00,Discharged
+CF00922,28,Female,Medium,Cardiology,Morning,DR010,12:42:00,Discharged
+CF00923,79,Not recorded,Medium,Cardiology,Night,DR005,1:39:00,Discharged
+CF00924,32,Male,Medium,Orthopedics,Morning,DR016,9:58:00,Discharged
+CF00925,58,Female,Medium,Respiratory,Evening,DR015,21:16:00,Discharged
+CF00926,35,Female,High,Orthopedics,Morning,DR019,12:09:00,Discharged
+CF00927,66,Not recorded,Low,Respiratory,Morning,DR013,12:22:00,Discharged
+CF00928,47,Not recorded,High,Respiratory,Evening,DR006,21:34:00,Discharged
+CF00929,18,Female,Medium,Orthopedics,Morning,DR007,10:26:00,Discharged
+CF00930,80,Female,Medium,General Emergency,Morning,DR016,10:57:00,Discharged
+CF00931,38,Female,High,Respiratory,Morning,DR007,13:19:00,Transferred
+CF00932,29,Female,Medium,Orthopedics,Evening,DR006,14:38:00,Discharged
+CF00933,48,Male,Medium,General Emergency,Evening,DR007,15:52:00,Discharged
+CF00934,76,Male,Low,Respiratory,Morning,DR018,6:40:00,Discharged
+CF00935,58,Male,Low,Respiratory,Evening,DR002,18:48:00,Admitted
+CF00936,85,Female,Low,Respiratory,Night,DR011,23:02:00,Discharged
+CF00937,21,Male,Medium,Orthopedics,Morning,DR019,8:11:00,Discharged
+CF00938,42,Female,Medium,Cardiology,Morning,DR003,13:15:00,Discharged
+CF00939,23,Not recorded,Low,Orthopedics,Morning,DR008,10:24:00,Admitted
+CF00940,71,Not recorded,Medium,Cardiology,Evening,DR020,18:10:00,Discharged
+CF00941,45,Female,Medium,Cardiology,Morning,DR014,11:43:00,Discharged
+CF00942,18,Not recorded,Medium,General Emergency,Night,DR008,4:01:00,Discharged
+CF00943,32,Male,Medium,Respiratory,Evening,DR015,21:16:00,Discharged
+CF00944,24,Not recorded,Low,Respiratory,Evening,DR010,17:16:00,Admitted
+CF00945,46,Male,Medium,Orthopedics,Evening,DR008,19:27:00,Discharged
+CF00946,61,Male,Medium,Respiratory,Evening,DR019,16:06:00,Discharged
+CF00947,25,Not recorded,Low,Orthopedics,Morning,DR003,13:21:00,Discharged
+CF00948,31,Female,Medium,Orthopedics,Morning,DR007,10:16:00,Discharged
+CF00949,51,Female,Medium,General Emergency,Morning,DR019,13:50:00,Discharged
+CF00950,18,Not recorded,Low,Cardiology,Morning,DR018,9:31:00,Discharged
+CF00951,83,Male,High,General Emergency,Morning,DR013,8:35:00,Admitted
+CF00952,77,Male,Low,Respiratory,Morning,DR013,11:16:00,Discharged
+CF00953,77,Male,Medium,Orthopedics,Morning,DR014,13:34:00,Admitted
+CF00954,42,Male,Low,Orthopedics,Morning,DR002,13:04:00,Discharged
+CF00955,63,Not recorded,Medium,Respiratory,Evening,DR013,16:42:00,Discharged
+CF00956,65,Not recorded,High,Respiratory,Evening,DR001,15:37:00,Discharged
+CF00957,44,Not recorded,Low,Orthopedics,Morning,DR014,12:41:00,Admitted
+CF00958,50,Not recorded,Medium,Cardiology,Evening,DR016,15:21:00,Discharged
+CF00959,24,Female,Medium,Respiratory,Morning,DR007,6:42:00,Discharged
+CF00960,59,Male,Low,Orthopedics,Evening,DR019,14:26:00,Discharged
+CF00961,68,Not recorded,Medium,Cardiology,Night,DR013,2:50:00,Admitted
+CF00962,25,Male,Medium,Orthopedics,Evening,DR012,15:49:00,Discharged
+CF00963,38,Not recorded,High,Cardiology,Morning,DR001,13:22:00,Discharged
+CF00964,31,Male,High,General Emergency,Morning,DR015,9:41:00,Discharged
+CF00965,47,Not recorded,Medium,Respiratory,Night,DR003,0:36:00,Discharged
+CF00966,90,Female,High,Respiratory,Night,DR007,23:35:00,Discharged
+CF00967,42,Female,Medium,General Emergency,Night,DR002,22:41:00,Discharged
+CF00968,83,Not recorded,Low,General Emergency,Morning,DR005,10:41:00,Discharged
+CF00969,62,Female,Medium,Respiratory,Evening,DR013,14:24:00,Discharged
+CF00970,36,Male,Medium,Orthopedics,Night,DR007,0:05:00,Admitted
+CF00971,82,Female,Medium,Cardiology,Morning,DR014,11:49:00,Discharged
+CF00972,50,Female,Medium,Cardiology,Night,DR008,1:13:00,Discharged
+CF00973,53,Not recorded,High,General Emergency,Morning,DR008,13:54:00,Discharged
+CF00974,80,Male,Low,Cardiology,Morning,DR009,10:22:00,Admitted
+CF00975,79,Not recorded,Low,Respiratory,Morning,DR009,7:43:00,Discharged
+CF00976,34,Not recorded,Low,Orthopedics,Morning,DR018,9:06:00,Discharged
+CF00977,39,Male,Medium,General Emergency,Morning,DR005,12:34:00,Discharged
+CF00978,43,Male,Low,General Emergency,Morning,DR011,12:59:00,Discharged
+CF00979,88,Not recorded,Medium,Orthopedics,Night,DR003,1:08:00,Discharged
+CF00980,48,Female,High,Cardiology,Evening,DR014,14:01:00,Discharged
+CF00981,46,Male,Low,Respiratory,Morning,DR009,8:44:00,Admitted
+CF00982,33,Not recorded,Medium,General Emergency,Evening,DR008,19:36:00,Discharged
+CF00983,55,Not recorded,Medium,Cardiology,Morning,DR013,8:56:00,Admitted
+CF00984,20,Not recorded,Low,General Emergency,Morning,DR014,12:20:00,Discharged
+CF00985,36,Not recorded,Low,Cardiology,Morning,DR020,13:34:00,Discharged
+CF00986,58,Male,High,General Emergency,Evening,DR005,20:58:00,Discharged
+CF00987,63,Male,Medium,Orthopedics,Morning,DR006,10:13:00,Discharged
+CF00988,82,Not recorded,Low,Orthopedics,Evening,DR003,21:52:00,Discharged
+CF00989,55,Male,Medium,Cardiology,Morning,DR017,9:05:00,Discharged
+CF00990,73,Female,High,Cardiology,Morning,DR005,8:45:00,Admitted
+CF00991,90,Not recorded,Medium,General Emergency,Evening,DR008,18:56:00,Discharged
+CF00992,85,Female,High,Orthopedics,Morning,DR006,9:19:00,Discharged
+CF00993,82,Male,Medium,Orthopedics,Night,DR009,1:59:00,Discharged
+CF00994,32,Not recorded,Medium,Orthopedics,Morning,DR011,11:18:00,Transferred
+CF00995,26,Not recorded,Medium,Cardiology,Morning,DR011,11:36:00,Discharged
+CF00996,45,Male,Medium,Orthopedics,Morning,DR014,6:46:00,Discharged
+CF00997,69,Female,Medium,Orthopedics,Evening,DR007,16:39:00,Discharged
+CF00998,75,Male,Low,General Emergency,Morning,DR010,13:43:00,Admitted
+CF00999,21,Male,Medium,General Emergency,Night,DR013,23:22:00,Discharged
+CF01000,71,Not recorded,Low,Respiratory,Night,DR018,1:15:00,Discharged
+CF01001,61,Male,Medium,Orthopedics,Evening,DR013,17:45:00,Discharged
+CF01002,84,Not recorded,Low,Cardiology,Evening,DR001,18:55:00,Discharged
+CF01003,51,Female,Medium,Orthopedics,Evening,DR019,21:05:00,Discharged
+CF01004,45,Male,High,Cardiology,Evening,DR011,20:57:00,Admitted
+CF01005,70,Not recorded,High,Cardiology,Morning,DR016,10:31:00,Discharged
+CF01006,41,Not recorded,Medium,Orthopedics,Morning,DR008,12:45:00,Discharged
+CF01007,72,Male,Medium,Orthopedics,Evening,DR007,21:43:00,Discharged
+CF01008,29,Female,Low,Orthopedics,Evening,DR006,18:01:00,Discharged
+CF01009,48,Not recorded,High,Cardiology,Evening,DR017,16:08:00,Discharged
+CF01010,72,Male,Medium,Cardiology,Night,DR016,23:50:00,Discharged
+CF01011,32,Not recorded,Medium,Orthopedics,Night,DR016,2:00:00,Admitted
+CF01012,54,Male,Medium,Orthopedics,Evening,DR009,19:14:00,Discharged
+CF01013,49,Female,Low,Orthopedics,Morning,DR001,12:35:00,Discharged
+CF01014,54,Female,Medium,General Emergency,Morning,DR008,11:49:00,Discharged
+CF01015,67,Not recorded,High,Cardiology,Evening,DR007,21:08:00,Discharged
+CF01016,63,Male,Low,Cardiology,Morning,DR011,7:44:00,Discharged
+CF01017,48,Male,High,Cardiology,Night,DR013,1:41:00,Discharged
+CF01018,23,Female,Low,Respiratory,Morning,DR017,11:19:00,Discharged
+CF01019,45,Male,Medium,Orthopedics,Morning,DR020,7:15:00,Discharged
+CF01020,59,Female,Low,Orthopedics,Morning,DR006,10:41:00,Discharged
+CF01021,54,Male,Medium,Cardiology,Evening,DR013,19:02:00,Discharged
+CF01022,52,Male,Low,Cardiology,Evening,DR004,21:27:00,Discharged
+CF01023,28,Not recorded,Medium,Cardiology,Morning,DR013,6:24:00,Discharged
+CF01024,76,Not recorded,Low,Cardiology,Morning,DR018,13:52:00,Discharged
+CF01025,44,Not recorded,High,Orthopedics,Evening,DR010,21:52:00,Admitted
+CF01026,79,Not recorded,High,Respiratory,Evening,DR018,15:20:00,Discharged
+CF01027,64,Male,Medium,Orthopedics,Morning,DR004,7:18:00,Discharged
+CF01028,51,Male,Medium,General Emergency,Evening,DR009,20:21:00,Discharged
+CF01029,71,Male,High,Respiratory,Evening,DR018,21:03:00,Discharged
+CF01030,81,Female,Low,General Emergency,Morning,DR011,7:30:00,Admitted
+CF01031,51,Female,Medium,Cardiology,Morning,DR013,13:56:00,Discharged
+CF01032,20,Female,Medium,Orthopedics,Morning,DR016,10:00:00,Transferred
+CF01033,77,Female,Medium,General Emergency,Night,DR017,1:41:00,Admitted
+CF01034,78,Not recorded,High,Respiratory,Evening,DR013,20:42:00,Discharged
+CF01035,57,Male,Low,General Emergency,Morning,DR004,7:49:00,Discharged
+CF01036,27,Male,Low,Respiratory,Night,DR005,0:19:00,Admitted
+CF01037,86,Not recorded,Low,Orthopedics,Evening,DR009,21:45:00,Discharged
+CF01038,26,Female,Medium,Respiratory,Evening,DR002,19:47:00,Discharged
+CF01039,38,Not recorded,Low,Respiratory,Evening,DR006,16:49:00,Discharged
+CF01040,83,Male,Low,General Emergency,Morning,DR002,11:58:00,Discharged
+CF01041,72,Female,Low,Respiratory,Evening,DR004,14:28:00,Discharged
+CF01042,86,Not recorded,Low,Respiratory,Evening,DR010,21:42:00,Discharged
+CF01043,55,Female,Medium,Respiratory,Morning,DR019,7:43:00,Discharged
+CF01044,73,Female,Medium,Orthopedics,Morning,DR002,9:38:00,Discharged
+CF01045,53,Male,High,Orthopedics,Morning,DR006,8:44:00,Admitted
+CF01046,62,Female,High,General Emergency,Morning,DR017,11:01:00,Discharged
+CF01047,86,Male,Low,Orthopedics,Evening,DR018,17:34:00,Discharged
+CF01048,90,Not recorded,High,General Emergency,Night,DR011,2:06:00,Discharged
+CF01049,30,Male,Medium,Cardiology,Night,DR001,22:45:00,Discharged
+CF01050,76,Not recorded,Medium,Respiratory,Night,DR016,3:11:00,Discharged
+CF01051,74,Female,Medium,Cardiology,Evening,DR004,19:38:00,Discharged
+CF01052,79,Female,Medium,Orthopedics,Morning,DR012,11:54:00,Discharged
+CF01053,62,Female,Medium,Orthopedics,Morning,DR012,7:14:00,Discharged
+CF01054,38,Female,High,Respiratory,Morning,DR017,7:20:00,Discharged
+CF01055,64,Male,Low,Cardiology,Evening,DR003,17:17:00,Discharged
+CF01056,53,Male,Medium,Cardiology,Morning,DR006,12:31:00,Admitted
+CF01057,22,Female,Medium,General Emergency,Night,DR005,2:26:00,Discharged
+CF01058,90,Male,Low,Orthopedics,Morning,DR016,8:30:00,Discharged
+CF01059,37,Female,High,Cardiology,Evening,DR003,14:51:00,Admitted
+CF01060,21,Not recorded,Medium,Orthopedics,Evening,DR013,15:17:00,Discharged
+CF01061,54,Not recorded,Low,Cardiology,Evening,DR008,16:34:00,Discharged
+CF01062,85,Female,Medium,Cardiology,Morning,DR001,10:03:00,Discharged
+CF01063,31,Female,Medium,General Emergency,Night,DR020,2:38:00,Discharged
+CF01064,51,Female,Medium,Orthopedics,Morning,DR011,12:30:00,Discharged
+CF01065,47,Not recorded,Medium,Cardiology,Evening,DR020,14:58:00,Admitted
+CF01066,21,Male,Medium,Orthopedics,Evening,DR006,18:48:00,Discharged
+CF01067,54,Female,Low,Orthopedics,Morning,DR011,7:57:00,Discharged
+CF01068,88,Female,High,Cardiology,Evening,DR016,20:07:00,Discharged
+CF01069,83,Male,Medium,Respiratory,Morning,DR014,8:05:00,Admitted
+CF01070,71,Not recorded,Medium,Respiratory,Morning,DR002,6:52:00,Discharged
+CF01071,78,Female,Low,Orthopedics,Evening,DR005,19:41:00,Discharged
+CF01072,56,Female,High,Cardiology,Evening,DR017,20:03:00,Discharged
+CF01073,23,Female,Medium,General Emergency,Morning,DR007,13:18:00,Discharged
+CF01074,72,Not recorded,Medium,Orthopedics,Evening,DR020,15:44:00,Discharged
+CF01075,30,Not recorded,Low,Respiratory,Morning,DR004,7:44:00,Discharged
+CF01076,50,Male,Medium,Orthopedics,Evening,DR020,14:21:00,Discharged
+CF01077,26,Not recorded,Low,Orthopedics,Morning,DR007,8:30:00,Admitted
+CF01078,83,Male,Medium,Orthopedics,Night,DR001,1:37:00,Discharged
+CF01079,44,Female,High,Cardiology,Morning,DR013,11:33:00,Discharged
+CF01080,50,Male,High,Cardiology,Evening,DR016,20:34:00,Discharged
+CF01081,86,Male,Low,Cardiology,Evening,DR011,16:56:00,Discharged
+CF01082,85,Female,Medium,General Emergency,Morning,DR012,6:06:00,Discharged
+CF01083,76,Male,Medium,Cardiology,Evening,DR014,19:00:00,Discharged
+CF01084,54,Female,Low,General Emergency,Evening,DR001,19:45:00,Discharged
+CF01085,74,Male,Medium,Orthopedics,Morning,DR015,12:36:00,Discharged
+CF01086,35,Not recorded,Low,Orthopedics,Night,DR009,3:43:00,Discharged
+CF01087,89,Male,Medium,Cardiology,Morning,DR011,12:15:00,Transferred
+CF01088,82,Male,Medium,Respiratory,Night,DR010,22:00:00,Discharged
+CF01089,27,Not recorded,High,General Emergency,Morning,DR006,13:58:00,Discharged
+CF01090,77,Male,Low,Respiratory,Morning,DR016,6:18:00,Discharged
+CF01091,59,Male,High,General Emergency,Morning,DR007,9:43:00,Discharged
+CF01092,61,Not recorded,Medium,General Emergency,Morning,DR002,6:02:00,Discharged
+CF01093,80,Male,Medium,Respiratory,Evening,DR016,16:46:00,Discharged
+CF01094,23,Male,Medium,Orthopedics,Night,DR014,4:57:00,Discharged
+CF01095,48,Not recorded,Low,Cardiology,Morning,DR019,12:55:00,Discharged
+CF01096,79,Male,Medium,Orthopedics,Evening,DR005,15:54:00,Discharged
+CF01097,87,Female,Medium,Cardiology,Night,DR018,5:51:00,Discharged
+CF01098,85,Not recorded,Medium,Respiratory,Morning,DR019,9:45:00,Discharged
+CF01099,38,Male,Medium,Respiratory,Morning,DR002,10:26:00,Discharged
+CF01100,66,Not recorded,Low,Respiratory,Morning,DR004,7:15:00,Discharged
+CF01101,28,Not recorded,Low,General Emergency,Night,DR019,0:28:00,Discharged
+CF01102,34,Not recorded,Low,Respiratory,Morning,DR018,12:22:00,Discharged
+CF01103,58,Female,Medium,Respiratory,Morning,DR014,8:01:00,Discharged
+CF01104,19,Not recorded,Medium,Respiratory,Evening,DR005,21:33:00,Admitted
+CF01105,24,Not recorded,Medium,Orthopedics,Night,DR009,4:14:00,Discharged
+CF01106,61,Not recorded,Medium,Respiratory,Evening,DR001,17:14:00,Discharged
+CF01107,57,Male,Medium,General Emergency,Evening,DR001,14:28:00,Discharged
+CF01108,42,Not recorded,Low,General Emergency,Evening,DR011,17:53:00,Discharged
+CF01109,90,Male,Low,Orthopedics,Evening,DR005,21:07:00,Discharged
+CF01110,60,Female,Medium,Orthopedics,Morning,DR015,8:08:00,Discharged
+CF01111,71,Not recorded,Medium,Respiratory,Evening,DR009,15:21:00,Discharged
+CF01112,59,Male,Medium,Cardiology,Morning,DR016,9:00:00,Admitted
+CF01113,76,Male,Medium,General Emergency,Morning,DR009,7:09:00,Discharged
+CF01114,30,Not recorded,High,Orthopedics,Evening,DR002,19:17:00,Discharged
+CF01115,81,Not recorded,Medium,Respiratory,Night,DR020,3:30:00,Discharged
+CF01116,46,Not recorded,High,Cardiology,Night,DR002,22:00:00,Discharged
+CF01117,50,Male,High,General Emergency,Morning,DR015,11:46:00,Discharged
+CF01118,49,Male,Low,Orthopedics,Evening,DR006,18:26:00,Discharged
+CF01119,44,Not recorded,High,Orthopedics,Evening,DR016,17:10:00,Discharged
+CF01120,77,Not recorded,High,General Emergency,Morning,DR005,6:56:00,Discharged
+CF01121,86,Not recorded,High,Respiratory,Night,DR012,22:46:00,Discharged
+CF01122,19,Male,Low,Respiratory,Night,DR009,5:19:00,Discharged
+CF01123,33,Male,Medium,Respiratory,Evening,DR017,16:55:00,Discharged
+CF01124,19,Not recorded,High,Orthopedics,Morning,DR014,13:40:00,Discharged
+CF01125,54,Not recorded,High,Respiratory,Morning,DR002,8:50:00,Transferred
+CF01126,55,Female,Medium,Respiratory,Morning,DR008,7:24:00,Discharged
+CF01127,24,Not recorded,Low,Cardiology,Morning,DR007,12:33:00,Discharged
+CF01128,37,Male,Low,Orthopedics,Morning,DR010,13:07:00,Discharged
+CF01129,62,Female,Medium,Cardiology,Morning,DR002,10:54:00,Discharged
+CF01130,44,Male,Medium,Respiratory,Evening,DR001,18:39:00,Discharged
+CF01131,22,Not recorded,Low,General Emergency,Evening,DR016,21:08:00,Discharged
+CF01132,60,Not recorded,High,Respiratory,Evening,DR005,15:28:00,Discharged
+CF01133,24,Male,High,Orthopedics,Evening,DR019,18:22:00,Discharged
+CF01134,51,Not recorded,Low,Orthopedics,Morning,DR019,8:06:00,Discharged
+CF01135,50,Not recorded,High,Cardiology,Night,DR011,2:21:00,Discharged
+CF01136,40,Female,Low,Respiratory,Night,DR014,4:25:00,Discharged
+CF01137,73,Male,Low,Cardiology,Night,DR017,0:33:00,Discharged
+CF01138,63,Male,Low,General Emergency,Morning,DR007,12:01:00,Discharged
+CF01139,61,Male,Medium,Respiratory,Night,DR017,0:58:00,Discharged
+CF01140,69,Female,Medium,Respiratory,Morning,DR014,9:57:00,Discharged
+CF01141,50,Female,High,Respiratory,Morning,DR009,9:21:00,Discharged
+CF01142,19,Female,Medium,Cardiology,Evening,DR019,14:09:00,Discharged
+CF01143,30,Not recorded,Medium,General Emergency,Morning,DR008,9:16:00,Discharged
+CF01144,34,Male,High,Respiratory,Evening,DR010,17:30:00,Admitted
+CF01145,57,Male,Low,Cardiology,Evening,DR018,17:40:00,Transferred
+CF01146,34,Male,Medium,Orthopedics,Morning,DR017,9:55:00,Discharged
+CF01147,19,Female,Low,Orthopedics,Evening,DR012,19:20:00,Discharged
+CF01148,19,Female,High,Cardiology,Evening,DR013,19:38:00,Discharged
+CF01149,37,Male,Medium,Cardiology,Night,DR001,4:56:00,Admitted
+CF01150,73,Female,High,Orthopedics,Morning,DR004,10:01:00,Discharged
+CF01151,29,Female,Low,Orthopedics,Morning,DR009,9:50:00,Transferred
+CF01152,37,Not recorded,High,General Emergency,Morning,DR011,11:18:00,Discharged
+CF01153,48,Male,Medium,Orthopedics,Evening,DR020,17:31:00,Discharged
+CF01154,41,Not recorded,Medium,Respiratory,Morning,DR013,13:00:00,Discharged
+CF01155,51,Male,Low,Respiratory,Morning,DR019,8:31:00,Discharged
+CF01156,84,Male,Medium,Respiratory,Night,DR010,5:55:00,Admitted
+CF01157,33,Female,Medium,Cardiology,Evening,DR018,18:53:00,Discharged
+CF01158,49,Male,Medium,Cardiology,Evening,DR017,17:56:00,Discharged
+CF01159,20,Female,High,General Emergency,Evening,DR016,16:58:00,Discharged
+CF01160,77,Not recorded,Medium,Cardiology,Morning,DR008,9:23:00,Discharged
+CF01161,79,Male,Low,Orthopedics,Evening,DR017,15:22:00,Discharged
+CF01162,44,Female,Medium,Respiratory,Evening,DR018,14:24:00,Discharged
+CF01163,70,Not recorded,Medium,General Emergency,Evening,DR015,16:17:00,Discharged
+CF01164,66,Male,Medium,General Emergency,Night,DR008,2:37:00,Discharged
+CF01165,65,Not recorded,Low,Orthopedics,Night,DR012,1:10:00,Discharged
+CF01166,62,Female,Low,Respiratory,Morning,DR006,8:54:00,Admitted
+CF01167,51,Male,Medium,Cardiology,Morning,DR016,11:03:00,Discharged
+CF01168,85,Male,Low,Cardiology,Evening,DR010,20:21:00,Discharged
+CF01169,47,Male,Medium,Orthopedics,Morning,DR003,9:22:00,Discharged
+CF01170,69,Female,Low,General Emergency,Morning,DR015,13:08:00,Discharged
+CF01171,74,Male,Medium,Cardiology,Night,DR007,1:02:00,Discharged
+CF01172,22,Not recorded,Low,Respiratory,Night,DR017,0:06:00,Discharged
+CF01173,67,Female,Low,Orthopedics,Evening,DR004,19:05:00,Admitted
+CF01174,67,Not recorded,Medium,Cardiology,Evening,DR018,19:50:00,Discharged
+CF01175,80,Not recorded,Low,Cardiology,Morning,DR014,13:44:00,Discharged
+CF01176,51,Not recorded,Low,Cardiology,Evening,DR002,14:52:00,Admitted
+CF01177,66,Female,High,Cardiology,Morning,DR005,9:19:00,Discharged
+CF01178,83,Male,High,Respiratory,Evening,DR020,19:30:00,Discharged
+CF01179,50,Male,Low,General Emergency,Morning,DR015,11:52:00,Discharged
+CF01180,80,Male,Medium,General Emergency,Morning,DR017,13:14:00,Admitted
+CF01181,42,Not recorded,Low,General Emergency,Morning,DR010,12:43:00,Admitted
+CF01182,18,Not recorded,Low,Orthopedics,Morning,DR014,10:59:00,Discharged
+CF01183,57,Female,Low,Respiratory,Morning,DR017,9:35:00,Admitted
+CF01184,47,Male,Low,Cardiology,Morning,DR013,13:44:00,Discharged
+CF01185,54,Female,Low,General Emergency,Morning,DR013,10:38:00,Discharged
+CF01186,19,Female,Medium,General Emergency,Morning,DR017,10:20:00,Discharged
+CF01187,62,Not recorded,Medium,Respiratory,Morning,DR006,13:34:00,Discharged
+CF01188,86,Male,Medium,Respiratory,Night,DR003,22:52:00,Discharged
+CF01189,57,Female,Low,Orthopedics,Evening,DR020,16:03:00,Discharged
+CF01190,60,Female,Medium,General Emergency,Morning,DR017,13:33:00,Discharged
+CF01191,43,Female,Medium,General Emergency,Night,DR020,4:00:00,Admitted
+CF01192,79,Not recorded,Low,Orthopedics,Evening,DR015,19:23:00,Discharged
+CF01193,54,Not recorded,Low,Orthopedics,Evening,DR011,18:35:00,Discharged
+CF01194,32,Not recorded,Medium,Respiratory,Night,DR012,5:38:00,Admitted
+CF01195,50,Male,Medium,Cardiology,Morning,DR020,12:18:00,Discharged
+CF01196,34,Not recorded,Low,Respiratory,Night,DR006,5:12:00,Discharged
+CF01197,43,Female,Low,Orthopedics,Evening,DR008,18:23:00,Discharged
+CF01198,48,Not recorded,Medium,Respiratory,Night,DR012,22:18:00,Discharged
+CF01199,64,Not recorded,Low,Cardiology,Morning,DR014,7:17:00,Discharged
+CF01200,23,Female,Low,Orthopedics,Morning,DR002,11:15:00,Discharged
+CF01201,46,Female,High,Cardiology,Night,DR016,0:19:00,Discharged
+CF01202,55,Not recorded,Medium,Respiratory,Night,DR020,2:59:00,Discharged
+CF01203,86,Female,Medium,Respiratory,Night,DR008,2:12:00,Discharged
+CF01204,40,Female,Medium,Orthopedics,Evening,DR004,20:40:00,Discharged
+CF01205,32,Female,Medium,Respiratory,Evening,DR020,20:40:00,Discharged
+CF01206,32,Male,High,Cardiology,Night,DR003,23:27:00,Discharged
+CF01207,43,Female,Low,Cardiology,Night,DR006,3:26:00,Discharged
+CF01208,19,Not recorded,Medium,Cardiology,Evening,DR008,15:45:00,Discharged
+CF01209,59,Not recorded,Medium,General Emergency,Morning,DR005,8:06:00,Discharged
+CF01210,81,Female,Medium,Cardiology,Morning,DR020,12:15:00,Discharged
+CF01211,86,Female,Medium,General Emergency,Night,DR010,5:41:00,Discharged
+CF01212,71,Not recorded,High,Orthopedics,Night,DR017,5:29:00,Discharged
+CF01213,26,Not recorded,High,Cardiology,Morning,DR001,6:03:00,Discharged
+CF01214,45,Female,High,Orthopedics,Evening,DR018,17:15:00,Discharged
+CF01215,81,Not recorded,Low,Orthopedics,Evening,DR003,21:03:00,Discharged
+CF01216,75,Male,High,Orthopedics,Morning,DR004,8:20:00,Discharged
+CF01217,41,Male,High,Orthopedics,Morning,DR001,6:00:00,Discharged
+CF01218,25,Not recorded,Medium,Cardiology,Morning,DR017,9:23:00,Admitted
+CF01219,67,Male,High,Respiratory,Morning,DR014,7:46:00,Admitted
+CF01220,37,Female,High,Respiratory,Evening,DR018,16:20:00,Discharged
+CF01221,62,Male,High,Orthopedics,Night,DR019,1:01:00,Discharged
+CF01222,63,Female,Medium,Respiratory,Evening,DR006,15:09:00,Discharged
+CF01223,37,Not recorded,High,Cardiology,Night,DR019,3:31:00,Discharged
+CF01224,44,Female,Medium,Orthopedics,Evening,DR011,15:38:00,Discharged
+CF01225,55,Female,Low,General Emergency,Evening,DR012,21:31:00,Discharged
+CF01226,31,Not recorded,High,Cardiology,Evening,DR008,17:52:00,Discharged
+CF01227,31,Female,Low,Cardiology,Morning,DR014,9:34:00,Discharged
+CF01228,34,Female,Low,General Emergency,Morning,DR009,8:36:00,Discharged
+CF01229,77,Not recorded,Medium,Orthopedics,Evening,DR006,21:05:00,Discharged
+CF01230,48,Not recorded,Low,Orthopedics,Evening,DR014,18:55:00,Admitted
+CF01231,84,Female,Medium,Cardiology,Evening,DR014,20:00:00,Discharged
+CF01232,23,Male,Medium,Respiratory,Morning,DR020,6:49:00,Discharged
+CF01233,86,Not recorded,Low,Respiratory,Night,DR014,2:59:00,Discharged
+CF01234,90,Female,Medium,Orthopedics,Night,DR005,4:40:00,Discharged
+CF01235,26,Female,Low,General Emergency,Evening,DR013,18:38:00,Discharged
+CF01236,45,Male,Medium,General Emergency,Morning,DR012,11:36:00,Discharged
+CF01237,54,Female,High,Cardiology,Night,DR003,4:39:00,Discharged
+CF01238,46,Male,Medium,Orthopedics,Evening,DR001,16:46:00,Discharged
+CF01239,46,Male,Low,Respiratory,Morning,DR005,11:44:00,Discharged
+CF01240,30,Female,Low,Orthopedics,Morning,DR011,8:54:00,Discharged
+CF01241,55,Female,High,Respiratory,Morning,DR016,10:45:00,Discharged
+CF01242,19,Female,Medium,Orthopedics,Night,DR010,5:10:00,Discharged
+CF01243,60,Male,Medium,Orthopedics,Morning,DR010,13:40:00,Admitted
+CF01244,79,Male,Medium,Respiratory,Night,DR008,4:36:00,Discharged
+CF01245,71,Female,High,General Emergency,Evening,DR015,17:28:00,Discharged
+CF01246,55,Female,Medium,Cardiology,Evening,DR001,15:23:00,Discharged
+CF01247,82,Male,Low,Cardiology,Morning,DR003,6:27:00,Discharged
+CF01248,63,Male,Medium,Orthopedics,Evening,DR015,14:53:00,Discharged
+CF01249,38,Not recorded,Medium,General Emergency,Night,DR014,22:43:00,Discharged
+CF01250,19,Not recorded,Medium,Orthopedics,Evening,DR015,16:26:00,Admitted
+CF01251,69,Male,Medium,Cardiology,Night,DR016,1:41:00,Discharged
+CF01252,34,Male,Medium,Respiratory,Evening,DR009,19:48:00,Discharged
+CF01253,48,Female,Medium,Cardiology,Evening,DR001,18:21:00,Discharged
+CF01254,32,Not recorded,Medium,General Emergency,Morning,DR011,13:35:00,Discharged
+CF01255,30,Not recorded,Medium,Respiratory,Morning,DR015,10:41:00,Discharged
+CF01256,71,Not recorded,Medium,Orthopedics,Night,DR005,0:34:00,Admitted
+CF01257,40,Male,Medium,General Emergency,Evening,DR001,20:28:00,Discharged
+CF01258,45,Female,Medium,General Emergency,Night,DR018,2:46:00,Discharged
+CF01259,64,Not recorded,Medium,General Emergency,Evening,DR015,18:26:00,Discharged
+CF01260,56,Not recorded,Medium,Orthopedics,Morning,DR011,13:02:00,Admitted
+CF01261,74,Male,Low,Respiratory,Morning,DR019,8:56:00,Admitted
+CF01262,57,Not recorded,Medium,Respiratory,Evening,DR007,19:01:00,Discharged
+CF01263,69,Male,Medium,Respiratory,Morning,DR003,12:04:00,Discharged
+CF01264,72,Not recorded,Medium,General Emergency,Morning,DR005,6:13:00,Discharged
+CF01265,85,Male,Medium,Respiratory,Night,DR019,3:31:00,Discharged
+CF01266,29,Male,Medium,Cardiology,Evening,DR012,14:27:00,Discharged
+CF01267,76,Not recorded,Medium,Cardiology,Evening,DR020,16:48:00,Discharged
+CF01268,54,Male,Low,Cardiology,Morning,DR019,10:55:00,Discharged
+CF01269,33,Female,Medium,General Emergency,Evening,DR005,21:37:00,Discharged
+CF01270,86,Not recorded,Low,Respiratory,Evening,DR012,21:22:00,Discharged
+CF01271,37,Not recorded,Medium,General Emergency,Evening,DR011,16:06:00,Transferred
+CF01272,25,Female,Medium,Cardiology,Morning,DR016,6:09:00,Discharged
+CF01273,61,Not recorded,Medium,Cardiology,Morning,DR004,11:40:00,Discharged
+CF01274,56,Not recorded,Medium,Orthopedics,Evening,DR010,15:59:00,Discharged
+CF01275,24,Male,Medium,Cardiology,Morning,DR015,7:21:00,Discharged
+CF01276,41,Not recorded,Medium,Respiratory,Evening,DR018,19:26:00,Discharged
+CF01277,38,Female,High,Respiratory,Evening,DR014,17:26:00,Discharged
+CF01278,66,Not recorded,Medium,Orthopedics,Morning,DR001,7:48:00,Discharged
+CF01279,65,Not recorded,Medium,Cardiology,Morning,DR018,10:23:00,Discharged
+CF01280,20,Not recorded,High,Respiratory,Morning,DR004,6:13:00,Discharged
+CF01281,55,Female,Medium,Cardiology,Morning,DR005,12:32:00,Discharged
+CF01282,48,Male,Medium,General Emergency,Evening,DR012,16:14:00,Discharged
+CF01283,27,Not recorded,High,Orthopedics,Night,DR005,23:01:00,Discharged
+CF01284,90,Not recorded,Medium,Cardiology,Morning,DR020,7:05:00,Admitted
+CF01285,18,Not recorded,High,General Emergency,Morning,DR011,10:45:00,Discharged
+CF01286,59,Not recorded,Low,Cardiology,Evening,DR009,20:15:00,Discharged
+CF01287,67,Male,Medium,Orthopedics,Night,DR011,4:24:00,Discharged
+CF01288,36,Male,Medium,Cardiology,Night,DR015,3:37:00,Discharged
+CF01289,24,Male,Medium,Respiratory,Evening,DR020,15:49:00,Admitted
+CF01290,30,Female,Medium,Respiratory,Morning,DR017,8:52:00,Discharged
+CF01291,81,Male,High,Respiratory,Evening,DR017,16:04:00,Discharged
+CF01292,84,Not recorded,Low,Respiratory,Night,DR009,2:09:00,Discharged
+CF01293,36,Male,Low,General Emergency,Morning,DR014,7:38:00,Discharged
+CF01294,76,Male,Medium,Orthopedics,Morning,DR008,6:23:00,Transferred
+CF01295,68,Female,High,General Emergency,Evening,DR006,14:04:00,Discharged
+CF01296,51,Male,Medium,Cardiology,Evening,DR018,18:54:00,Discharged
+CF01297,22,Not recorded,High,Cardiology,Night,DR010,3:54:00,Discharged
+CF01298,87,Male,Low,General Emergency,Evening,DR007,14:04:00,Transferred
+CF01299,62,Male,High,General Emergency,Morning,DR006,12:33:00,Discharged
+CF01300,18,Female,Medium,Orthopedics,Evening,DR016,19:53:00,Discharged
+CF01301,20,Male,Medium,General Emergency,Morning,DR020,11:25:00,Discharged
+CF01302,67,Not recorded,Low,General Emergency,Morning,DR016,7:05:00,Discharged
+CF01303,45,Male,Medium,Cardiology,Morning,DR010,9:10:00,Admitted
+CF01304,88,Female,Low,Orthopedics,Evening,DR018,19:03:00,Admitted
+CF01305,41,Female,High,Orthopedics,Evening,DR012,18:07:00,Discharged
+CF01306,38,Female,Medium,General Emergency,Night,DR018,23:07:00,Discharged
+CF01307,23,Female,Low,Cardiology,Evening,DR003,20:01:00,Discharged
+CF01308,79,Not recorded,Low,Cardiology,Night,DR013,23:39:00,Discharged
+CF01309,49,Female,Medium,General Emergency,Evening,DR007,19:24:00,Discharged
+CF01310,48,Male,Low,General Emergency,Evening,DR003,20:50:00,Discharged
+CF01311,33,Female,Medium,Orthopedics,Morning,DR001,9:19:00,Discharged
+CF01312,28,Female,Low,Respiratory,Morning,DR016,7:27:00,Discharged
+CF01313,69,Male,Medium,Cardiology,Morning,DR019,12:00:00,Discharged
+CF01314,64,Female,Low,Cardiology,Night,DR018,3:15:00,Transferred
+CF01315,19,Female,Medium,Orthopedics,Morning,DR017,6:32:00,Discharged
+CF01316,55,Female,Low,Respiratory,Morning,DR007,7:39:00,Discharged
+CF01317,45,Male,Medium,Respiratory,Evening,DR018,16:05:00,Discharged
+CF01318,88,Not recorded,Low,Respiratory,Evening,DR012,17:10:00,Discharged
+CF01319,90,Female,Medium,Cardiology,Morning,DR005,11:14:00,Admitted
+CF01320,77,Not recorded,Low,Cardiology,Morning,DR010,8:02:00,Discharged
+CF01321,60,Male,High,General Emergency,Night,DR007,22:53:00,Discharged
+CF01322,28,Not recorded,Medium,General Emergency,Morning,DR016,7:59:00,Admitted
+CF01323,56,Not recorded,Medium,Respiratory,Evening,DR013,14:40:00,Discharged
+CF01324,59,Not recorded,Medium,Respiratory,Morning,DR007,10:14:00,Discharged
+CF01325,36,Not recorded,Medium,Orthopedics,Evening,DR004,17:39:00,Discharged
+CF01326,69,Female,Medium,Orthopedics,Evening,DR011,18:15:00,Discharged
+CF01327,77,Female,Medium,Orthopedics,Morning,DR015,13:47:00,Discharged
+CF01328,45,Female,Medium,General Emergency,Evening,DR017,17:41:00,Discharged
+CF01329,59,Not recorded,Medium,Orthopedics,Morning,DR010,8:11:00,Discharged
+CF01330,75,Not recorded,Medium,Cardiology,Morning,DR004,7:04:00,Discharged
+CF01331,30,Male,High,General Emergency,Morning,DR011,9:39:00,Admitted
+CF01332,75,Male,High,Cardiology,Evening,DR015,19:40:00,Discharged
+CF01333,48,Male,Low,Cardiology,Evening,DR006,14:55:00,Transferred
+CF01334,20,Not recorded,High,Respiratory,Night,DR007,23:01:00,Discharged
+CF01335,70,Female,Low,Respiratory,Morning,DR011,11:05:00,Discharged
+CF01336,88,Male,Medium,Respiratory,Evening,DR011,16:02:00,Discharged
+CF01337,89,Not recorded,High,Cardiology,Morning,DR009,7:45:00,Discharged
+CF01338,78,Male,Medium,Respiratory,Morning,DR006,11:40:00,Admitted
+CF01339,20,Female,Medium,Respiratory,Night,DR008,22:14:00,Discharged
+CF01340,33,Not recorded,Low,General Emergency,Morning,DR001,8:54:00,Admitted
+CF01341,59,Not recorded,High,Cardiology,Evening,DR009,20:28:00,Discharged
+CF01342,30,Not recorded,Low,Cardiology,Night,DR013,23:22:00,Admitted
+CF01343,37,Male,Low,Cardiology,Evening,DR003,17:08:00,Discharged
+CF01344,45,Not recorded,Low,Orthopedics,Night,DR006,2:07:00,Discharged
+CF01345,82,Male,Low,General Emergency,Morning,DR011,10:01:00,Transferred
+CF01346,23,Female,Medium,Respiratory,Morning,DR018,8:25:00,Discharged
+CF01347,62,Female,Low,Respiratory,Evening,DR004,21:56:00,Discharged
+CF01348,83,Male,Medium,Cardiology,Evening,DR010,21:38:00,Discharged
+CF01349,50,Not recorded,High,Respiratory,Evening,DR011,15:31:00,Discharged
+CF01350,60,Male,Medium,Respiratory,Night,DR019,3:42:00,Discharged
+CF01351,65,Not recorded,Medium,Respiratory,Evening,DR008,15:33:00,Discharged
+CF01352,64,Female,High,General Emergency,Evening,DR012,17:24:00,Admitted
+CF01353,47,Female,High,Orthopedics,Night,DR003,23:40:00,Discharged
+CF01354,52,Not recorded,Low,Respiratory,Night,DR002,3:22:00,Discharged
+CF01355,64,Not recorded,High,Orthopedics,Morning,DR004,8:56:00,Discharged
+CF01356,54,Female,Medium,General Emergency,Morning,DR002,8:56:00,Discharged
+CF01357,82,Female,Medium,Cardiology,Night,DR009,2:44:00,Discharged
+CF01358,54,Not recorded,Medium,General Emergency,Morning,DR013,11:44:00,Discharged
+CF01359,79,Female,High,General Emergency,Evening,DR019,20:01:00,Discharged
+CF01360,36,Female,High,Cardiology,Night,DR013,4:38:00,Admitted
+CF01361,41,Not recorded,Low,Orthopedics,Morning,DR012,7:32:00,Discharged
+CF01362,43,Not recorded,Low,General Emergency,Morning,DR005,13:51:00,Discharged
+CF01363,32,Not recorded,Low,Cardiology,Night,DR012,22:44:00,Discharged
+CF01364,38,Not recorded,High,General Emergency,Evening,DR001,20:53:00,Discharged
+CF01365,62,Male,Medium,Cardiology,Evening,DR002,17:39:00,Discharged
+CF01366,26,Not recorded,Medium,General Emergency,Evening,DR013,18:40:00,Discharged
+CF01367,33,Female,Medium,Respiratory,Evening,DR017,18:10:00,Admitted
+CF01368,71,Male,Medium,Respiratory,Morning,DR007,10:31:00,Discharged
+CF01369,59,Not recorded,Medium,Respiratory,Evening,DR008,15:46:00,Discharged
+CF01370,78,Female,High,Respiratory,Night,DR016,4:41:00,Discharged
+CF01371,60,Male,Low,Orthopedics,Morning,DR013,12:58:00,Discharged
+CF01372,41,Male,Medium,Orthopedics,Morning,DR004,12:13:00,Admitted
+CF01373,84,Male,Low,Orthopedics,Evening,DR018,21:57:00,Discharged
+CF01374,66,Female,Low,Respiratory,Morning,DR020,9:12:00,Discharged
+CF01375,51,Female,Medium,Respiratory,Evening,DR007,21:46:00,Discharged
+CF01376,63,Not recorded,Low,General Emergency,Night,DR002,23:01:00,Discharged
+CF01377,74,Not recorded,Medium,Cardiology,Night,DR013,1:16:00,Discharged
+CF01378,49,Female,High,Respiratory,Evening,DR020,21:04:00,Discharged
+CF01379,43,Male,High,Cardiology,Morning,DR012,10:43:00,Discharged
+CF01380,25,Not recorded,High,General Emergency,Evening,DR005,15:51:00,Discharged
+CF01381,60,Male,Medium,Respiratory,Morning,DR007,12:45:00,Discharged
+CF01382,78,Not recorded,High,Cardiology,Evening,DR018,14:52:00,Discharged
+CF01383,72,Not recorded,Low,Cardiology,Evening,DR007,21:10:00,Discharged
+CF01384,59,Not recorded,Medium,Cardiology,Morning,DR001,11:03:00,Discharged
+CF01385,66,Male,High,General Emergency,Evening,DR019,20:09:00,Admitted
+CF01386,63,Female,Medium,Respiratory,Morning,DR015,7:16:00,Discharged
+CF01387,67,Female,Low,Orthopedics,Morning,DR010,12:05:00,Discharged
+CF01388,90,Female,Low,Cardiology,Morning,DR012,9:21:00,Admitted
+CF01389,49,Not recorded,Medium,Orthopedics,Night,DR011,3:04:00,Admitted
+CF01390,20,Not recorded,Low,Cardiology,Morning,DR015,13:09:00,Discharged
+CF01391,51,Male,Low,Cardiology,Evening,DR009,16:36:00,Discharged
+CF01392,39,Female,Medium,Respiratory,Night,DR004,22:58:00,Discharged
+CF01393,57,Male,High,General Emergency,Morning,DR014,10:13:00,Discharged
+CF01394,41,Female,Medium,General Emergency,Night,DR005,23:14:00,Discharged
+CF01395,64,Female,Medium,Respiratory,Morning,DR001,11:07:00,Admitted
+CF01396,72,Male,Low,Respiratory,Morning,DR006,13:22:00,Discharged
+CF01397,74,Male,High,Orthopedics,Evening,DR014,18:50:00,Discharged
+CF01398,27,Female,Medium,Cardiology,Evening,DR014,18:05:00,Discharged
+CF01399,31,Not recorded,Low,Orthopedics,Morning,DR016,8:22:00,Discharged
+CF01400,25,Not recorded,Low,Cardiology,Morning,DR016,12:29:00,Discharged
+CF01401,53,Male,High,Orthopedics,Morning,DR005,7:09:00,Discharged
+CF01402,30,Female,Low,Orthopedics,Morning,DR011,8:08:00,Admitted
+CF01403,71,Not recorded,High,Respiratory,Morning,DR006,6:31:00,Transferred
+CF01404,83,Male,Medium,Cardiology,Morning,DR007,7:55:00,Discharged
+CF01405,64,Female,High,Respiratory,Evening,DR020,18:27:00,Discharged
+CF01406,62,Not recorded,Medium,Orthopedics,Morning,DR003,12:50:00,Discharged
+CF01407,90,Not recorded,High,Orthopedics,Evening,DR014,20:51:00,Discharged
+CF01408,40,Not recorded,Medium,Respiratory,Morning,DR014,12:18:00,Admitted
+CF01409,23,Male,Medium,Respiratory,Morning,DR011,9:27:00,Discharged
+CF01410,87,Not recorded,Medium,Respiratory,Morning,DR009,13:14:00,Discharged
+CF01411,18,Not recorded,Medium,General Emergency,Night,DR001,3:51:00,Discharged
+CF01412,70,Female,Low,General Emergency,Night,DR013,2:07:00,Admitted
+CF01413,36,Male,Medium,Orthopedics,Morning,DR002,6:05:00,Discharged
+CF01414,20,Not recorded,Medium,Respiratory,Evening,DR004,21:26:00,Discharged
+CF01415,24,Not recorded,High,Orthopedics,Morning,DR002,11:09:00,Discharged
+CF01416,83,Female,Medium,Cardiology,Night,DR006,4:01:00,Discharged
+CF01417,22,Not recorded,Medium,Respiratory,Evening,DR004,18:17:00,Transferred
+CF01418,20,Female,High,General Emergency,Evening,DR007,17:15:00,Discharged
+CF01419,45,Male,Low,General Emergency,Night,DR002,23:55:00,Discharged
+CF01420,49,Female,Medium,Respiratory,Evening,DR004,20:17:00,Discharged
+CF01421,37,Male,High,Cardiology,Night,DR018,1:35:00,Admitted
+CF01422,45,Not recorded,Low,Orthopedics,Morning,DR003,13:00:00,Discharged
+CF01423,44,Not recorded,Medium,Cardiology,Evening,DR001,20:11:00,Discharged
+CF01424,83,Male,High,Orthopedics,Evening,DR005,15:49:00,Discharged
+CF01425,53,Female,Medium,Respiratory,Morning,DR011,9:40:00,Discharged
+CF01426,33,Not recorded,Medium,Orthopedics,Evening,DR019,21:07:00,Discharged
+CF01427,34,Not recorded,Medium,Orthopedics,Evening,DR004,16:00:00,Discharged
+CF01428,34,Not recorded,High,General Emergency,Morning,DR014,8:42:00,Discharged
+CF01429,22,Male,Medium,Respiratory,Morning,DR005,7:27:00,Discharged
+CF01430,36,Not recorded,Medium,General Emergency,Morning,DR013,9:05:00,Discharged
+CF01431,75,Male,Low,Cardiology,Morning,DR018,7:54:00,Discharged
+CF01432,55,Not recorded,High,General Emergency,Morning,DR014,12:04:00,Discharged
+CF01433,78,Not recorded,Low,Orthopedics,Morning,DR002,13:13:00,Discharged
+CF01434,50,Female,Medium,General Emergency,Evening,DR020,14:16:00,Admitted
+CF01435,76,Male,Low,Respiratory,Evening,DR011,17:21:00,Discharged
+CF01436,34,Female,Low,Respiratory,Morning,DR001,7:37:00,Discharged
+CF01437,90,Not recorded,High,General Emergency,Evening,DR011,21:44:00,Discharged
+CF01438,72,Male,Low,Cardiology,Morning,DR018,13:57:00,Discharged
+CF01439,78,Not recorded,Low,Respiratory,Evening,DR006,16:43:00,Discharged
+CF01440,56,Male,Medium,Cardiology,Night,DR008,1:21:00,Discharged
+CF01441,34,Male,High,General Emergency,Morning,DR017,7:47:00,Discharged
+CF01442,74,Male,Medium,Cardiology,Morning,DR015,13:45:00,Discharged
+CF01443,74,Male,Low,Orthopedics,Morning,DR003,7:45:00,Admitted
+CF01444,80,Not recorded,Low,Respiratory,Night,DR018,22:53:00,Discharged
+CF01445,47,Not recorded,Medium,Orthopedics,Morning,DR004,12:05:00,Discharged
+CF01446,85,Not recorded,Low,Cardiology,Night,DR002,4:09:00,Discharged
+CF01447,90,Not recorded,Medium,Respiratory,Evening,DR015,19:25:00,Discharged
+CF01448,25,Female,Low,Cardiology,Evening,DR017,14:35:00,Discharged
+CF01449,43,Not recorded,Medium,Cardiology,Night,DR002,2:21:00,Discharged
+CF01450,23,Female,Medium,Cardiology,Morning,DR008,9:51:00,Discharged
+CF01451,77,Not recorded,Low,Respiratory,Evening,DR007,16:35:00,Discharged
+CF01452,32,Female,Medium,Respiratory,Evening,DR011,21:10:00,Discharged
+CF01453,26,Male,High,General Emergency,Morning,DR015,7:09:00,Discharged
+CF01454,79,Male,Medium,Respiratory,Night,DR017,22:37:00,Discharged
+CF01455,89,Not recorded,Medium,Respiratory,Night,DR001,5:23:00,Discharged
+CF01456,44,Male,High,Respiratory,Morning,DR019,9:50:00,Discharged
+CF01457,52,Male,Medium,General Emergency,Night,DR003,22:58:00,Discharged
+CF01458,64,Female,High,General Emergency,Night,DR011,23:45:00,Transferred
+CF01459,60,Male,Low,Cardiology,Evening,DR020,16:45:00,Discharged
+CF01460,65,Female,Medium,Orthopedics,Night,DR018,0:27:00,Discharged
+CF01461,79,Female,Low,Orthopedics,Evening,DR005,21:47:00,Discharged
+CF01462,75,Male,Medium,Respiratory,Morning,DR019,7:56:00,Discharged
+CF01463,68,Not recorded,Medium,Respiratory,Morning,DR001,11:56:00,Transferred
+CF01464,35,Male,Low,Respiratory,Night,DR010,0:25:00,Discharged
+CF01465,29,Male,High,General Emergency,Morning,DR007,12:48:00,Discharged
+CF01466,42,Male,Medium,Cardiology,Night,DR011,23:35:00,Discharged
+CF01467,58,Not recorded,Low,Orthopedics,Morning,DR014,6:02:00,Discharged
+CF01468,24,Female,Medium,General Emergency,Evening,DR018,21:23:00,Discharged
+CF01469,68,Female,Medium,Respiratory,Evening,DR001,19:56:00,Discharged
+CF01470,48,Female,Low,General Emergency,Morning,DR001,13:23:00,Discharged
+CF01471,71,Male,High,Orthopedics,Morning,DR010,10:06:00,Discharged
+CF01472,46,Male,Low,Respiratory,Night,DR007,22:28:00,Discharged
+CF01473,60,Not recorded,Low,Orthopedics,Night,DR011,22:09:00,Discharged
+CF01474,47,Female,Medium,Cardiology,Night,DR016,22:27:00,Discharged
+CF01475,84,Female,Medium,General Emergency,Evening,DR006,21:21:00,Admitted
+CF01476,42,Male,High,Cardiology,Evening,DR019,21:28:00,Transferred
+CF01477,45,Male,High,General Emergency,Evening,DR010,21:05:00,Admitted
+CF01478,90,Not recorded,High,General Emergency,Evening,DR011,14:01:00,Discharged
+CF01479,81,Not recorded,High,Orthopedics,Night,DR014,22:08:00,Discharged
+CF01480,37,Not recorded,Low,Cardiology,Night,DR011,5:50:00,Discharged
+CF01481,50,Male,Medium,General Emergency,Morning,DR015,9:01:00,Discharged
+CF01482,36,Not recorded,Medium,Respiratory,Evening,DR011,14:09:00,Discharged
+CF01483,83,Not recorded,Low,Cardiology,Evening,DR007,16:01:00,Admitted
+CF01484,82,Female,Medium,Respiratory,Morning,DR009,11:59:00,Admitted
+CF01485,75,Not recorded,Low,General Emergency,Evening,DR020,21:42:00,Discharged
+CF01486,47,Not recorded,High,Orthopedics,Morning,DR016,6:40:00,Discharged
+CF01487,73,Not recorded,Medium,Orthopedics,Evening,DR019,20:18:00,Admitted
+CF01488,79,Male,Low,Respiratory,Morning,DR020,11:09:00,Discharged
+CF01489,61,Male,Low,General Emergency,Morning,DR019,12:35:00,Discharged
+CF01490,27,Male,Medium,Orthopedics,Morning,DR017,10:22:00,Discharged
+CF01491,65,Not recorded,Low,General Emergency,Evening,DR004,16:56:00,Discharged
+CF01492,44,Male,Medium,General Emergency,Evening,DR015,14:44:00,Admitted
+CF01493,39,Female,Low,General Emergency,Morning,DR011,8:57:00,Discharged
+CF01494,90,Not recorded,High,Respiratory,Evening,DR012,21:20:00,Admitted
+CF01495,80,Not recorded,Medium,Orthopedics,Evening,DR011,19:51:00,Discharged
+CF01496,40,Male,Low,Respiratory,Morning,DR017,12:04:00,Discharged
+CF01497,89,Not recorded,Medium,Orthopedics,Night,DR012,2:20:00,Discharged
+CF01498,43,Female,Medium,Orthopedics,Night,DR017,4:36:00,Discharged
+CF01499,84,Female,Low,Respiratory,Evening,DR011,15:46:00,Discharged
+CF01500,46,Not recorded,Low,General Emergency,Evening,DR020,20:36:00,Admitted
